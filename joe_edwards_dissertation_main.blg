@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: joe_edwards_dissertation_main.aux
+The style file: plain.bst
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: conclusion.aux
+Database file #1: dissertation.bib
+Warning--I didn't find a database entry for ""
+Warning--empty booktitle in Hardke
+Warning--empty publisher in Hardke
+Warning--empty year in Hardke
+Warning--empty journal in Linquist2012
+Warning--empty publisher in Wickham2009
+You've used 65 entries,
+            2118 wiz_defined-function locations,
+            961 strings with 20097 characters,
+and the built_in function-call counts, 28115 in all, are:
+= -- 2518
+> -- 2166
+< -- 3
++ -- 859
+- -- 794
+* -- 2573
+:= -- 4952
+add.period$ -- 192
+call.type$ -- 65
+change.case$ -- 586
+chr.to.int$ -- 0
+cite$ -- 70
+duplicate$ -- 728
+empty$ -- 1613
+format.name$ -- 794
+if$ -- 5395
+int.to.chr$ -- 0
+int.to.str$ -- 65
+missing$ -- 69
+newline$ -- 324
+num.names$ -- 130
+pop$ -- 545
+preamble$ -- 1
+purify$ -- 527
+quote$ -- 0
+skip$ -- 482
+stack$ -- 0
+substring$ -- 1344
+swap$ -- 80
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 246
+warning$ -- 5
+while$ -- 218
+width$ -- 67
+write$ -- 701
+(There were 6 warnings)

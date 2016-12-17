@@ -1,0 +1,426 @@
+\begin{thebibliography}{10}
+
+\bibitem{Al-Ghalith2016}
+Gabriel~A. Al-Ghalith, Emmanuel Montassier, Henry~N. Ward, and Dan Knights.
+\newblock {NINJA-OPS: Fast Accurate Marker Gene Alignment Using Concatenated
+  Ribosomes}.
+\newblock {\em PLoS Computational Biology}, 12(1):e1004658, jan 2016.
+
+\bibitem{Atlas1986}
+R.M. Atlas and R.~Bartha.
+\newblock {Microbial ecology: Fundamentals and applications}, 1986.
+
+\bibitem{Austin2004}
+Daniel Austin.
+\newblock {\em {Florida Ethnobotany}}.
+\newblock CRC Press, Boca Raton, 2004.
+
+\bibitem{Backhed}
+Fredrik B{\"{a}}ckhed, Hao Ding, Ting Wang, Lora~V Hooper, Gou~Young Koh,
+  Andras Nagy, Clay~F Semenkovich, and Jeffrey~I Gordon.
+\newblock {The gut microbiota as an environmental factor that regulates fat
+  storage.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 101(44):15718--23, 2004.
+
+\bibitem{Backhed2015}
+Fredrik B{\"{a}}ckhed, Josefine Roswall, Yangqing Peng, Qiang Feng, Huijue Jia,
+  Petia Kovatcheva-Datchary, Yin Li, Yan Xia, Hailiang Xie, Huanzi Zhong,
+  Muhammad Tanweer Khan, Jianfeng Zhang, Junhua Li, Liang Xiao, Jumana
+  Al-Aama, Dongya Zhang, Ying Shiuan Lee, Dorota Kotowska, Camilla Colding,
+  Valentina Tremaroli, Ye~Yin, Stefan Bergman, Xun Xu, Lise Madsen, Karsten
+  Kristiansen, Jovanna Dahlgren, and Jun Wang.
+\newblock {Dynamics and Stabilization of the Human Gut Microbiome during the
+  First Year of Life}.
+\newblock {\em Cell Host {\&} Microbe}, 17(5):690--703, 2015.
+
+\bibitem{Benjamini1995}
+Yoav Benjamini and Yosef Hochberg.
+\newblock {Controlling the false discovery rate: a practical and powerful
+  approach to multiple testing.}
+\newblock {\em Journal of the royal statistical society. Series B
+  (Methodological)}, 57(1):289--300, 1995.
+
+\bibitem{Berendsen2012}
+Roeland~L. Berendsen, Corn{\'{e}}~M.J. Pieterse, and Peter~A.H.M. Bakker.
+\newblock {The rhizosphere microbiome and plant health}.
+\newblock {\em Trends in Plant Science}, 17(8):478--486, 2012.
+
+\bibitem{Breiman2001}
+Leo Breiman.
+\newblock {Random Forests}.
+\newblock {\em Machine Learning}, 45(1):5--32, 2001.
+
+\bibitem{Bulgarelli2012}
+Davide Bulgarelli, Matthias Rott, Klaus Schlaeppi, Emiel {Ver Loren van
+  Themaat}, Nahal Ahmadinejad, Federica Assenza, Philipp Rauf, Bruno Huettel,
+  Richard Reinhardt, Elmon Schmelzer, Joerg Peplies, Frank~Oliver Gloeckner,
+  Rudolf Amann, Thilo Eickhorst, and Paul Schulze-Lefert.
+\newblock {Revealing structure and assembly cues for Arabidopsis
+  root-inhabiting bacterial microbiota.}
+\newblock {\em Nature}, 488(7409):91--5, aug 2012.
+
+\bibitem{Bulgarelli2013}
+Davide Bulgarelli, Klaus Schlaeppi, Stijn Spaepen, Emiel {Ver Loren van
+  Themaat}, and Paul Schulze-Lefert.
+\newblock {Structure and functions of the bacterial microbiota of plants.}
+\newblock {\em Annual review of plant biology}, 64(1):807--38, apr 2013.
+
+\bibitem{Caporaso2010}
+J~Gregory Caporaso, Justin Kuczynski, Jesse Stombaugh, Kyle Bittinger,
+  Frederic~D Bushman, Elizabeth~K Costello, Noah Fierer, Antonio~Gonzalez
+  Pe{\~{n}}a, Julia~K Goodrich, Jeffrey~I Gordon, Gavin~A Huttley, Scott~T
+  Kelley, Dan Knights, Jeremy~E Koenig, Ruth~E Ley, Catherine~A Lozupone,
+  Daniel McDonald, Brian~D Muegge, Meg Pirrung, Jens Reeder, Joel~R Sevinsky,
+  Peter~J Turnbaugh, William~A Walters, Jeremy Widmann, Tanya Yatsunenko, Jesse
+  Zaneveld, and Rob Knight.
+\newblock {QIIME allows analysis of high-throughput community sequencing data}.
+\newblock {\em Nature Methods}, 7(5):335--336, may 2010.
+
+\bibitem{Caporaso2011}
+J~Gregory Caporaso, Christian~L Lauber, Elizabeth~K Costello, Donna Berg-Lyons,
+  Antonio Gonzalez, Jesse Stombaugh, Dan Knights, Pawel Gajer, Jacques Ravel,
+  Noah Fierer, Jeffrey~I Gordon, and Rob Knight.
+\newblock {Moving pictures of the human microbiome.}
+\newblock {\em Genome biology}, 12(5):R50, jan 2011.
+
+\bibitem{Cribari-Neto}
+Francisco Cribari-Neto and A~Zeileis.
+\newblock {Beta regression in R}.
+\newblock {\em Journal of Statistical Software}, 34(2):24, 2010.
+
+\bibitem{Debelius2016}
+Justine Debelius, Se~Jin Song, Yoshiki Vazquez-Baeza, Zhenjiang~Zech Xu,
+  Antonio Gonzalez, and Rob Knight.
+\newblock {Tiny microbes, enormous impacts: what matters in gut microbiome
+  studies?}
+\newblock {\em Genome Biology}, 17(1):217, dec 2016.
+
+\bibitem{DeSantis2006}
+T~Z DeSantis, P~Hugenholtz, N~Larsen, M~Rojas, E~L Brodie, K~Keller, T~Huber,
+  D~Dalevi, P~Hu, and G~L Andersen.
+\newblock {Greengenes, a chimera-checked 16S rRNA gene database and workbench
+  compatible with ARB.}
+\newblock {\em Applied and environmental microbiology}, 72(7):5069--72, jul
+  2006.
+
+\bibitem{Dobell1932}
+Clifford Dobell.
+\newblock {\em {Antony van Leeuwenhoek and his "Little animals"}}.
+\newblock Harcourt, Brace, and Co., New York, 1932.
+
+\bibitem{Dombrowski2016}
+Nina Dombrowski, Klaus Schlaeppi, Matthew~T Agler, St{\'{e}}phane Hacquard,
+  Eric Kemen, Ruben Garrido-Oter, J{\"{o}}rg Wunder, George Coupland, and Paul
+  Schulze-Lefert.
+\newblock {Root microbiota dynamics of perennial Arabis alpina are dependent on
+  soil residence time but independent of flowering time}.
+\newblock {\em Nature Publishing Group}, 2016.
+
+\bibitem{Edwards2015}
+Joseph Edwards, Cameron Johnson, Christian Santos-Medell{\'{i}}n, Eugene Lurie,
+  Natraj~Kumar Podishetty, Srijak Bhatnagar, Jonathan~A Eisen, and Venkatesan
+  Sundaresan.
+\newblock {Structure, variation, and assembly of the root-associated
+  microbiomes of rice.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 112(8):E911--20, 2015.
+
+\bibitem{Epstein1971}
+Emanuel Epstein.
+\newblock {\em {Mineral nutrition of plants: principles and perspectives.}}
+\newblock John Wiley and Sons, Inc., London, 1971.
+
+\bibitem{Espinasse1962}
+M.~'Espinasse.
+\newblock {\em {Robert Hooke}}.
+\newblock University of California Press, Berkeley and Los Angeles, 2nd
+  edition, 1962.
+
+\bibitem{Freeling1990}
+Michael Freeling.
+\newblock {Patterns in plant development (2nd edn)}.
+\newblock {\em Trends in Genetics}, 6:97, 1990.
+
+\bibitem{Hardke}
+Jarrod Hardke and Bob Scott.
+\newblock {Water-Seeded Rice}.
+
+\bibitem{Hooke1665}
+Robert Hooke.
+\newblock {\em {Micrographia}}.
+\newblock Royal Society, London, 1665.
+
+\bibitem{Hornby1983}
+D~Hornby.
+\newblock {Suppressive Soils}.
+\newblock {\em Annual Review of Phytopathology}, 21(1):65--85, sep 1983.
+
+\bibitem{Hugenholtz1998}
+Philip Hugenholtz, Brett~M Goebel, and Norman~R Pace.
+\newblock {MINIREVIEW Impact of Culture-Independent Studies on the Emerging
+  Phylogenetic View of Bacterial Diversity}.
+\newblock {\em JOURNAL OF BACTERIOLOGY}, 180(18):4765--4774, 1998.
+
+\bibitem{Ishimaru2013}
+Ken Ishimaru, Naoki Hirotsu, Yuka Madoka, Naomi Murakami, Nao Hara, Haruko
+  Onodera, Takayuki Kashiwagi, Kazuhiro Ujiie, Bun-ichi Shimizu, Atsuko Onishi,
+  Hisashi Miyagawa, and Etsuko Katoh.
+\newblock {Loss of function of the IAA-glucose hydrolase gene TGW6 enhances
+  rice grain weight and increases yield}.
+\newblock {\em Nature Genetics}, 45(6):707--711, apr 2013.
+
+\bibitem{Koenig2011}
+Jeremy~E Koenig, Aym{\'{e}} Spor, Nicholas Scalfone, Ashwana~D Fricker, Jesse
+  Stombaugh, Rob Knight, Largus~T Angenent, and Ruth~E Ley.
+\newblock {Succession of microbial consortia in the developing infant gut
+  microbiome.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 108 Suppl:4578--85, mar 2011.
+
+\bibitem{Kudo1987}
+H.~Kudo, K.-J. Cheng, and J.~W. Costerton.
+\newblock {Interactions between Treponema bryantii and cellulolytic bacteria in
+  the in vitro degradation of straw cellulose}.
+\newblock {\em Canadian Journal of Microbiology}, 33(3):244--248, mar 1987.
+
+\bibitem{Langmead2012}
+Ben Langmead and Steven~L Salzberg.
+\newblock {Fast gapped-read alignment with Bowtie 2}.
+\newblock {\em Nature Methods}, 9(4):357--359, mar 2012.
+
+\bibitem{Ley2005}
+Ruth~E Ley, F~Backhed, Peter Turnbaugh, Catherine~A Lozupone, Robin~D Knight,
+  and Jeffrey~I Gordon.
+\newblock {Obesity alters gut microbial ecology}.
+\newblock {\em Proc Natl Acad Sci U S A}, 102(31):11070--11075, 2005.
+
+\bibitem{Liaw2015}
+Andy Liaw, Jingli Yan, Weifeng Li, Lijian Han, F.~Schroff, A.~Criminisi, Andrew
+  Zisserman, Barrett Lowe, Arun Kulkarni, Anna Bosch, Andrew Zisserman, Xavier
+  Mu, Xavier Munoz, R~Devadas, R~J Denham, M~Pringle, Remote~Sensing Centre,
+  Ecosciences Percinct, Tidy Data, Angelos Tzotsos, and X~Zhang.
+\newblock {Package ‘randomForest'}.
+\newblock {\em R news}, XXXIX(1):54.1--54.10, 2014.
+
+\bibitem{Linquist2012}
+Bruce Linquist and Robert Hijmans.
+\newblock {ANNUAL REPORT COMPREHENSIVE RESEARCH ON RICE}.
+\newblock 2012.
+
+\bibitem{Lundberg2012}
+Derek~S. Lundberg, Sarah~L. Lebeis, Sur~Herrera Paredes, Scott Yourstone, Jase
+  Gehring, Stephanie Malfatti, Julien Tremblay, Anna Engelbrektson, Victor
+  Kunin, Tijana~Glavina del Rio, Robert~C. Edgar, Thilo Eickhorst, Ruth~E. Ley,
+  Philip Hugenholtz, Susannah~Green Tringe, and Jeffery~L. Dangl.
+\newblock {Defining the core Arabidopsis thaliana root microbiome}.
+\newblock {\em Nature}, 488(7409):86--90, aug 2012.
+
+\bibitem{Masella2012}
+Andre~P Masella, Andrea~K Bartram, Jakub~M Truszkowski, Daniel~G Brown, and
+  Josh~D Neufeld.
+\newblock {PANDAseq: paired-end assembler for illumina sequences.}
+\newblock {\em BMC bioinformatics}, 13(1):31, 2012.
+
+\bibitem{McMurdie2013}
+Paul~J. McMurdie and Susan Holmes.
+\newblock {Phyloseq: An R Package for Reproducible Interactive Analysis and
+  Graphics of Microbiome Census Data}.
+\newblock {\em PLoS ONE}, 8(4), apr 2013.
+
+\bibitem{Mendes2011}
+Rodrigo Mendes, Marco Kruijt, Irene de~Bruijn, Ester Dekkers, Menno van~der
+  Voort, Johannes H.~M. Schneider, Yvette~M. Piceno, Todd~Z. DeSantis, Gary~L.
+  Andersen, Peter A. H.~M. Bakker, and Jos~M. Raaijmakers.
+\newblock {Deciphering the Rhizosphere Microbiome for Disease-Suppressive
+  Bacteria}.
+\newblock {\em Science}, 332(6033), 2011.
+
+\bibitem{Minami1994}
+K.~Minami.
+\newblock {Methane from rice production}.
+\newblock {\em Fertilizer Research}, 37(3):167--179, 1994.
+
+\bibitem{Moldenhauer}
+Karen Moldenhauer and Nathan Slaton.
+\newblock {Rice growth and development}.
+\newblock {\em Rice production handbook}, pages 7--14, 2001.
+
+\bibitem{Mueller2015}
+Noel~T. Mueller, Elizabeth Bakacs, Joan Combellick, Zoya Grigoryan, and
+  Maria~G. Dominguez-Bello.
+\newblock {The infant microbiome development: mom matters}.
+\newblock {\em Trends in Molecular Medicine}, 21(2):109--117, 2015.
+
+\bibitem{nobel1967}
+{Nobel Foundation}.
+\newblock {\em {Nobel Lectures, Phyiology or Medicine 1901-1921}}.
+\newblock Elsevier Publishing Company, Amsterdam, 1967.
+
+\bibitem{Oksanen2013}
+Jari Oksanen, F.~Guillaume Blanchet, Roeland Kindt, Pierre Legendre, Peter~R.
+  Minchin, R.~B. O'Hara, Gavin~L. Simpson, Peter Solymos, M.~Henry~H. Stevens,
+  and Helene Wagner.
+\newblock {Package ‘vegan'}.
+\newblock {\em R package ver. 2.0–8}, page 254, 2013.
+
+\bibitem{Pace1986}
+Norman~R. Pace, David~A. Stahl, David~J. Lane, and Gary~J. Olsen.
+\newblock {The Analysis of Natural Microbial Populations by Ribosomal RNA
+  Sequences}.
+\newblock In {\em Advances in Microbial Ecology}, pages 1--55. Springer US,
+  1986.
+
+\bibitem{Peiffer2013}
+Jason~A Peiffer, Aym{\'{e}} Spor, Omry Koren, Zhao Jin, Susannah~Green Tringe,
+  Jeffery~L Dangl, Edward~S Buckler, and Ruth~E Ley.
+\newblock {Diversity and heritability of the maize rhizosphere microbiome under
+  field conditions.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 110(16):6548--53, apr 2013.
+
+\bibitem{RCoreTeam2016}
+{R Core Team}.
+\newblock {R: A Language and Environment for Statistical Computing}, 2016.
+
+\bibitem{Ransom-Jones2012}
+Emma Ransom-Jones, David~L. Jones, Alan~J. McCarthy, and James~E. McDonald.
+\newblock {The Fibrobacteres: An Important Phylum of Cellulose-Degrading
+  Bacteria}, feb 2012.
+
+\bibitem{Schlaeppi2015}
+Klaus Schlaeppi and Davide Bulgarelli.
+\newblock {The Plant Microbiome at Work}.
+\newblock {\em Molecular Plant-Microbe Interactions}, 28(3):212--217, mar 2015.
+
+\bibitem{Schlaeppi2014}
+Klaus Schlaeppi, Nina Dombrowski, Ruben~Garrido Oter, Emiel {Ver Loren van
+  Themaat}, and Paul Schulze-Lefert.
+\newblock {Quantitative divergence of the bacterial root microbiota in
+  Arabidopsis thaliana relatives.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 111(2):585--92, jan 2014.
+
+\bibitem{Scofield2009}
+Graham~N Scofield, Sari~A Ruuska, Naohiro Aoki, David~C Lewis, Linda~M Tabe,
+  and Colin L~D Jenkins.
+\newblock {Starch storage in the stems of wheat plants: localization and
+  temporal changes.}
+\newblock {\em Annals of botany}, 103(6):859--68, apr 2009.
+
+\bibitem{Shenton2016}
+Matthew Shenton, Chie Iwamoto, Nori Kurata, and Kazuho Ikeo.
+\newblock {Effect of Wild and Cultivated Rice Genotypes on Rhizosphere
+  Bacterial Community Composition.}
+\newblock {\em Rice (New York, N.Y.)}, 9(1):42, dec 2016.
+
+\bibitem{Shomura2008}
+Ayahiko Shomura, Takeshi Izawa, Kaworu Ebana, Takeshi Ebitani, Hiromi Kanegae,
+  Saeko Konishi, and Masahiro Yano.
+\newblock {Deletion in a gene associated with grain size increased yields
+  during rice domestication}.
+\newblock {\em Nature Genetics}, 40(8):1023--1028, aug 2008.
+
+\bibitem{Simmonds2015}
+Maegen~B. Simmonds, Merle Anders, Maria~Arlene Adviento-Borbe, Chris van
+  Kessel, Anna McClung, and Bruce~A. Linquist.
+\newblock {Seasonal Methane and Nitrous Oxide Emissions of Several Rice
+  Cultivars in Direct-Seeded Systems}.
+\newblock {\em Journal of Environment Quality}, 44(1):103, 2015.
+
+\bibitem{Slewinski2012}
+Thomas~L Slewinski.
+\newblock {Non-structural carbohydrate partitioning in grass stems: a target to
+  increase yield stability, stress tolerance, and biofuel production.}
+\newblock {\em Journal of experimental botany}, 63(13):4647--70, aug 2012.
+
+\bibitem{Sogin2006}
+Mitchell~L Sogin, Hilary~G Morrison, Julie~A Huber, David {Mark Welch}, Susan~M
+  Huse, Phillip~R Neal, Jesus~M Arrieta, and Gerhard~J Herndl.
+\newblock {Microbial diversity in the deep sea and the underexplored "rare
+  biosphere".}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 103(32):12115--20, aug 2006.
+
+\bibitem{Tegeder2010}
+Mechthild Tegeder and Doris Rentsch.
+\newblock {Uptake and partitioning of amino acids and peptides.}
+\newblock {\em Molecular plant}, 3(6):997--1011, nov 2010.
+
+\bibitem{Turnbaugh2007}
+Peter~J Turnbaugh, Ruth~E Ley, Micah Hamady, Claire~M Fraser-Liggett, Rob
+  Knight, and Jeffrey~I Gordon.
+\newblock {The human microbiome project.}
+\newblock {\em Nature}, 449(7164):804--10, oct 2007.
+
+\bibitem{Turnbaugh}
+Peter~J Turnbaugh, Ruth~E Ley, Michael~A Mahowald, Vincent Magrini, Elaine~R
+  Mardis, and Jeffrey~I Gordon.
+\newblock {An obesity-associated gut microbiome with increased capacity for
+  energy harvest.}
+\newblock {\em Nature}, 444(7122):1027--31, 2006.
+
+\bibitem{Vance2001}
+C~P Vance.
+\newblock {Symbiotic nitrogen fixation and phosphorus acquisition. Plant
+  nutrition in a world of declining renewable resources.}
+\newblock {\em Plant physiology}, 127(2):390--7, oct 2001.
+
+\bibitem{Wagner2014}
+Maggie~R. Wagner, Derek~S. Lundberg, Devin Coleman-Derr, Susannah~G. Tringe,
+  Jeffery~L. Dangl, and Thomas Mitchell-Olds.
+\newblock {Natural soil microbes alter flowering phenology and the intensity of
+  selection on flowering time in a wild Arabidopsis relative}.
+\newblock {\em Ecology Letters}, 17(6):717--726, jun 2014.
+
+\bibitem{Wagner2016}
+Maggie~R Wagner, Derek~S Lundberg, Tijana~G del Rio, Susannah~G Tringe,
+  Jeffery~L Dangl, and Thomas Mitchell-Olds.
+\newblock {Host genotype and age shape the leaf and root microbiomes of a wild
+  perennial plant}.
+\newblock {\em Nat Commun}, 7:1--15, 2016.
+
+\bibitem{Wang2009}
+Renhou Wang, Sara Farrona, Coral Vincent, Anika Joecker, Heiko Schoof,
+  Franziska Turck, Carlos Alonso-Blanco, George Coupland, and Maria~C. Albani.
+\newblock {PEP1 regulates perennial flowering in Arabis alpina}.
+\newblock {\em Nature}, 459(7245):423--427, may 2009.
+
+\bibitem{Wickham2009}
+Hadley Wickham.
+\newblock {\em ggplot2}.
+\newblock 2009.
+
+\bibitem{Winston2014}
+Max~E. Winston, Jarrad Hampton-Marcell, Iratxe Zarraonaindia, Sarah~M. Owens,
+  Corrie~S. Moreau, Jack~A. Gilbert, Josh Hartsel, Suzanne~J. Kennedy, and
+  S.~M. Gibbons.
+\newblock {Understanding cultivar-specificity and soil determinants of the
+  Cannabis microbiome}.
+\newblock {\em PLoS ONE}, 9(6), jun 2014.
+
+\bibitem{Woese1977}
+Carl~R Woese and George~E Fox.
+\newblock {Phylogenetic structure of the prokaryotic domain: The primary
+  kingdoms (archaebacteria/eubacteria/urkaryote/16S ribosomal RNA/molecular
+  phylogeny)}.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 74(11):5088--5090, 1977.
+
+\bibitem{Yatsunenko2012}
+Tanya Yatsunenko, Federico~E. Rey, Mark~J. Manary, Indi Trehan, Maria~Gloria
+  Dominguez-Bello, Monica Contreras, Magda Magris, Glida Hidalgo, Robert~N.
+  Baldassano, Andrey~P. Anokhin, Andrew~C. Heath, Barbara Warner, Jens Reeder,
+  Justin Kuczynski, J.~Gregory Caporaso, Catherine~A. Lozupone, Christian
+  Lauber, Jose~Carlos Clemente, Dan Knights, Rob Knight, and Jeffrey~I. Gordon.
+\newblock {Human gut microbiome viewed across age and geography}.
+\newblock {\em Nature}, 486(7402):222, may 2012.
+
+\bibitem{Zarraonaindia2015}
+Iratxe Zarraonaindia, Sarah~M. Owens, Pamela Weisenhorn, Kristin West, Jarrad
+  Hampton-Marcell, Simon Lax, Nicholas~A. Bokulich, David~A. Mills, Gilles
+  Martin, Safiyh Taghavi, Daniel van~der Lelie, and Jack~A. Gilbert.
+\newblock {The soil microbiome influences grapevine-associated microbiota}.
+\newblock {\em mBio}, 6(2), mar 2015.
+
+\end{thebibliography}

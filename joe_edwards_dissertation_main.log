@@ -1,0 +1,2001 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  16 DEC 2016 16:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**joe_edwards_dissertation_main
+(./joe_edwards_dissertation_main.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ucdavisthesis/ucdavisthesis.cls
+Document Class: ucdavisthesis 2013/08/18 v1.2 UCDavis thesis class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ucdavisthesis/ucdthesis12.clo
+File: ucdthesis12.clo 2009/02/22 v1.0 ucdavisthesis class 12pt size option
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\bibindent=\dimen102
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count86
+\c@table=\count87
+\UMIfoliosep=\skip43
+\c@UMIpagetemp=\count88
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2013/09/10 v2.59 Date Time Package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count89
+)
+\etb@tempcnta=\count90
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2013/08/17 v2.03
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2012/09/28
+\fc@digit@counter=\count91
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen103
+)
+\c@padzeroesN=\count92
+\fc@tmpcatcode=\count93
+\@DT@modctr=\count94
+\@ordinalctr=\count95
+\@orgargctr=\count96
+\@strctr=\count97
+\@tmpstrctr=\count98
+\@DT@loopN=\count99
+\@DT@X=\count100
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2013/08/17
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count101
+\@month=\count102
+\@year=\count103
+\c@HOUR=\count104
+\c@HOURXII=\count105
+\c@MINUTE=\count106
+\c@TOHOUR=\count107
+\c@TOMINUTE=\count108
+\c@SECOND=\count109
+\currenthour=\count110
+\currentminute=\count111
+\currentsecond=\count112
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count113
+\dayofyear=\count114
+\dayofweek=\count115
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks16
+\dt@b=\toks17
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count116
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen106
+\WF@size=\dimen107
+\c@WF@wrappedlines=\count117
+\WF@box=\box26
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen108
+\captionmargin@=\dimen109
+\captionwidth=\dimen110
+\caption@tempdima=\dimen111
+\caption@indent=\dimen112
+\caption@parindent=\dimen113
+\caption@hangindent=\dimen114
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\renewcommand {\baselin
+estretch }{1.0} \small \vskip \abovecaptionskip \sbox \@tempboxa {#1. #2}\ifdim
+ \wd \@tempboxa >0.9\hsize \hskip .05\hsize \parbox {0.9\hsize }{#1. #2}\else \
+global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \normal
+size \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count118
+Package caption Info: wrapfig package is loaded.
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mathdesign.sty
+Package: mathdesign 2013/08/29 v2.31 Math Design Project
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdput/mdput.cfg)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdput/mdput.sty
+Package: mdput 2013/08/29 v2.31 adobe utopia + mdput (Math Design Project)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdfont.def
+File: mdfont.def 2013/08/29 v2.31 (Math Design Project)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdsffont.def
+File: mdsffont.def 2013/08/29 v2.31 (Math Design Project)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdttfont.def
+File: mdttfont.def 2013/08/29 v2.31 (Math Design Project)
+)
+\symmdcal=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mdcal' in version `bold'
+(Font)                  OMS/mdput/m/n --> OMS/mdput/b/n on input line 97.
+\symmdscr=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `mdscr' in version `bold'
+(Font)                  OMS/mdput/m/n --> OMS/mdput/b/n on input line 103.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/xmdeuf/m/n --> U/xmdeuf/b/n on input line 110.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/mdput/m/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/mdput/m/it on input line 122.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/mdput/m/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/mdput/m/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/mdput/b/n on input line 126.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/mdput/b/it on input line 127.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/mdput/b/n on input line 128.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/mdput/b/n on input line 129.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/mdput/m/n --> T1/mdput/m/n on input line 131.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/mdput/b/n on input line 132.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/mdput/m/it on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 134.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 135.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/mdput/b/n --> T1/mdput/b/n on input line 137.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/mdput/b/n on input line 138.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/mdput/b/it on input line 139.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/cmss/b/n on input line 140.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/b/n on input line 141.
+\symlettersupright=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersupright' in version `bold'
+(Font)                  OML/mdput/m/n --> OML/mdput/b/n on input line 144.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 145.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
+(Font)                  OMS/mdput/m/n --> OMS/mdput/m/n on input line 167.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/05/09 v2.6d package option processing (HA)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+\XKV@depth=\count119
+File: xkeyval.tex 2014/05/09 v2.6d key=value parser (HA)
+))
+LaTeX Font Info:    Try loading font information for T1+mdput on input line 186
+.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdput/t1mdput.fd
+File: t1mdput.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdput.
+)
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 11.28003pt on input line 186.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 449.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 450.
+\symmathdesignA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `mathdesignA' in version `bold'
+(Font)                  MDA/mdput/m/n --> MDA/mdput/b/n on input line 491.
+\symmathdesignB=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
+(Font)                  MDB/mdput/m/n --> MDB/mdput/b/n on input line 498.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
+\rulethickness=\skip44
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count120
+\calc@Bcount=\count121
+\calc@Adimen=\dimen115
+\calc@Bdimen=\dimen116
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count122
+\calc@Cskip=\skip47
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box27
+\AM@toc@title=\toks21
+\c@AM@survey=\count123
+\AM@templatesizebox=\box28
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen117
+\extrarowheight=\dimen118
+\NC@list=\toks22
+\extratabsurround=\skip48
+\backup@length=\skip49
+)
+\everycr=\toks23
+\minrowclearance=\skip50
+)
+(./joe_edwards_dissertation_main.aux (./introduction.aux) (./chapter2.aux)
+(./chapter3.aux) (./chapter4.aux) (./conclusion.aux))
+\openout1 = `joe_edwards_dissertation_main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 114.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 114.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdacmr.fd
+File: mdacmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 114.
+LaTeX Font Info:    Try loading font information for MDB+cmr on input line 114.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdbcmr.fd
+File: mdbcmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 114.
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count124
+\scratchdimen=\dimen119
+\scratchbox=\box29
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen120
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box30
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 13.53603pt on input line 122.
+LaTeX Font Info:    Font shape `T1/mdput/m/fsc' will be
+(Font)              scaled to size 11.28003pt on input line 122.
+
+[1
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+mdput on input line 12
+2.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdput/omsmdput.fd
+File: omsmdput.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdput.
+)
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 11.28003pt on input line 122.
+LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
+(Font)              scaled to size 11.28003pt on input line 122.
+
+[1
+
+]
+LaTeX Font Info:    Font shape `T1/mdput/m/sl' will be
+(Font)              scaled to size 11.28003pt on input line 122.
+ [2
+
+
+design size mismatch in local font md-utro8t in virtual font mdputro8t.vf ignor
+ed.]
+LaTeX Font Info:    Font shape `T1/mdput/m/fsc' will be
+(Font)              scaled to size 13.53603pt on input line 122.
+ (./joe_edwards_dissertation_main.toc
+LaTeX Font Info:    Try loading font information for OT1+mdput on input line 1.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdput/ot1mdput.fd
+File: ot1mdput.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdput.
+)
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 11.28003pt on input line 1.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 1.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 5.64001pt on input line 1.
+LaTeX Font Info:    Try loading font information for OML+mdput on input line 1.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdput/omlmdput.fd
+File: omlmdput.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdput.
+)
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 11.28003pt on input line 1.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 7.52002pt on input line 1.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 5.64001pt on input line 1.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 1.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 5.64001pt on input line 1.
+LaTeX Font Info:    Try loading font information for OMX+mdput on input line 1.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdput/omxmdput.fd
+File: omxmdput.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdput.
+)
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 11.28003pt on input line 1.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 1.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 5.64001pt on input line 1.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 11.28003pt on input line 1.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 1.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 5.64001pt on input line 1.
+LaTeX Font Info:    Try loading font information for MDA+mdput on input line 1.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdput/mdamdput.fd
+File: mdamdput.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdput.
+)
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 11.28003pt on input line 1.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 1.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 5.64001pt on input line 1.
+LaTeX Font Info:    Try loading font information for MDB+mdput on input line 1.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mdput/mdbmdput.fd
+File: mdbmdput.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdput.
+)
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 11.28003pt on input line 1.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 1.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 5.64001pt on input line 1.
+LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
+(Font)              scaled to size 11.28003pt on input line 5.
+
+[3
+
+]
+LaTeX Font Info:    Font shape `T1/mdput/b/it' will be
+(Font)              scaled to size 11.28003pt on input line 29.
+
+Overfull \hbox (2.64487pt too wide) in paragraph at lines 36--36
+ [][] []\T1/mdput/m/n/12 The com-po-si-tion of the root-associated mi-cro-biota
+ is an ac-cu-rate pre- 
+ []
+
+[4])
+\tf@toc=\write3
+\openout3 = `joe_edwards_dissertation_main.toc'.
+
+ [5] (./joe_edwards_dissertation_main.lof)
+\tf@lof=\write4
+\openout4 = `joe_edwards_dissertation_main.lof'.
+
+ [6
+
+]
+(./joe_edwards_dissertation_main.lot)
+\tf@lot=\write5
+\openout5 = `joe_edwards_dissertation_main.lot'.
+
+ [7
+
+]
+Overfull \hbox (16.17401pt too wide) in paragraph at lines 122--122
+[]\T1/mdput/m/n/12 In the sec-ond chap-ter, I present the re-sults of a study c
+har-ac-ter-iz-ing the rice root-associated
+ []
+
+
+Overfull \hbox (4.5443pt too wide) in paragraph at lines 122--122
+[]\T1/mdput/m/n/12 In the third chap-ter, I present the re-sults of a study cha
+r-ac-ter-iz-ing the rice root-associated
+ []
+
+
+Overfull \hbox (5.41289pt too wide) in paragraph at lines 122--122
+[]\T1/mdput/m/n/12 In the fourth chap-ter, I demon-strate how the rice root-ass
+ociated mi-cro-biota shifts across
+ []
+
+[8
+
+] [9] [10]
+\openout2 = `introduction.aux'.
+
+ (./introduction.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
+(Font)              scaled to size 28.06847pt on input line 1.
+LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
+(Font)              scaled to size 23.38725pt on input line 1.
+LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
+(Font)              scaled to size 16.24324pt on input line 2.
+[1
+
+
+]
+Overfull \hbox (14.48546pt too wide) in paragraph at lines 8--8
+[]\T1/mdput/b/n/17.28 The foun-da-tion of mod-ern mi-cro-bial ecol-ogy ex-per-i
+-ments 
+ []
+
+[2] [3] <Figures/intro_fig1.pdf, id=54, 302.94884pt x 276.20808pt>
+File: Figures/intro_fig1.pdf Graphic file (type pdf)
+
+<use Figures/intro_fig1.pdf>
+Package pdftex.def Info: Figures/intro_fig1.pdf used on input line 22.
+(pdftex.def)             Requested size: 198.7425pt x 181.2021pt.
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 25.
+LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
+(Font)              scaled to size 7.52002pt on input line 25.
+
+<Figures/intro_fig2.pdf, id=55, 240.87491pt x 582.80234pt>
+File: Figures/intro_fig2.pdf Graphic file (type pdf)
+
+<use Figures/intro_fig2.pdf>
+Package pdftex.def Info: Figures/intro_fig2.pdf used on input line 33.
+(pdftex.def)             Requested size: 198.7425pt x 480.889pt.
+
+Overfull \hbox (4.79762pt too wide) in paragraph at lines 40--41
+\T1/mdput/m/n/12 associated mi-cro-bial com-mu-ni-ties in depth. 16S rRNA se-qu
+enc-ing was the method of choice
+ []
+
+
+Overfull \hbox (6.57014pt too wide) in paragraph at lines 40--41
+\T1/mdput/m/n/12 for pro-fil-ing mi-cro-bial com-mu-ni-ties but re-searchers we
+re bur-dened by the pro-cess of cloning
+ []
+
+[4 <./Figures/intro_fig1.pdf>] [5 <./Figures/intro_fig2.pdf>]
+Overfull \hbox (7.55156pt too wide) in paragraph at lines 46--47
+\T1/mdput/m/n/12 Mendes et al. tested the root-associated bac-te-rial com-mu-ni
+-ties be-tween sugar beet seedlings
+ []
+
+[6]
+
+LaTeX Warning: Citation `' on page 7 undefined on input line 48.
+
+[7]
+Overfull \hbox (2.98851pt too wide) in paragraph at lines 50--51
+[]\T1/mdput/m/n/12 Open ques-tions still re-main for the plant root-associated 
+mi-cro-biota. Func-tion-ally, there
+ []
+
+) [8]
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
+Chapter 2.
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 9.40002pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 9.40002pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 6.58002pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 4.70001pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 9.40002pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 6.58002pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 4.70001pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 9.40002pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 6.58002pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 4.70001pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 9.40002pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 6.58002pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 4.70001pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 9.40002pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 6.58002pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 4.70001pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 9.40002pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 6.58002pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 4.70001pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 9.40002pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 6.58002pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 4.70001pt on input line 3.
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 6.58002pt on input line 3.
+
+Overfull \hbox (34.15305pt too wide) in paragraph at lines 3--4
+\T1/mdput/m/n/12 Joseph Ed-wards[], Cameron Johnson$[]$, Chris-tian Santos$[]$,
+ Eu-gene Lurie$[]$, Na-traj Ku-mar Podishetty$[]$,
+ []
+
+)
+Overfull \hbox (16.18073pt too wide) in paragraph at lines 6--125
+\T1/mdput/m/n/12 abil-ity, growth pro-mo-tion, and dis-ease sup-pres-sion. High
+-throughput se-quenc-ing ap-proaches
+ []
+
+[9
+
+
+
+] [10] <PNASEdwards.pdf, id=398, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf>
+Package pdftex.def Info: PNASEdwards.pdf used on input line 126.
+(pdftex.def)             Requested size: 587.14912pt x 785.92032pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf>
+Package pdftex.def Info: PNASEdwards.pdf used on input line 126.
+(pdftex.def)             Requested size: 587.14912pt x 785.92032pt.
+
+<PNASEdwards.pdf, id=401, page=1, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 1>
+Package pdftex.def Info: PNASEdwards.pdf, page1 used on input line 126.
+(pdftex.def)             Requested size: 587.14912pt x 785.92032pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 1>
+Package pdftex.def Info: PNASEdwards.pdf, page1 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 1>
+Package pdftex.def Info: PNASEdwards.pdf, page1 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 1>
+Package pdftex.def Info: PNASEdwards.pdf, page1 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 1>
+Package pdftex.def Info: PNASEdwards.pdf, page1 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+ [11
+
+ <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=444, page=2, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 2>
+Package pdftex.def Info: PNASEdwards.pdf, page2 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 2>
+Package pdftex.def Info: PNASEdwards.pdf, page2 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 2>
+Package pdftex.def Info: PNASEdwards.pdf, page2 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+ [12 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=466, page=3, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 3>
+Package pdftex.def Info: PNASEdwards.pdf, page3 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 3>
+Package pdftex.def Info: PNASEdwards.pdf, page3 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 3>
+Package pdftex.def Info: PNASEdwards.pdf, page3 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+ [13 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=472, page=4, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 4>
+Package pdftex.def Info: PNASEdwards.pdf, page4 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 4>
+Package pdftex.def Info: PNASEdwards.pdf, page4 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 4>
+Package pdftex.def Info: PNASEdwards.pdf, page4 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+ [14 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=479, page=5, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 5>
+Package pdftex.def Info: PNASEdwards.pdf, page5 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 5>
+Package pdftex.def Info: PNASEdwards.pdf, page5 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 5>
+Package pdftex.def Info: PNASEdwards.pdf, page5 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+ [15 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=488, page=6, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 6>
+Package pdftex.def Info: PNASEdwards.pdf, page6 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 6>
+Package pdftex.def Info: PNASEdwards.pdf, page6 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 6>
+Package pdftex.def Info: PNASEdwards.pdf, page6 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+ [16 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=493, page=7, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 7>
+Package pdftex.def Info: PNASEdwards.pdf, page7 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 7>
+Package pdftex.def Info: PNASEdwards.pdf, page7 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 7>
+Package pdftex.def Info: PNASEdwards.pdf, page7 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+ [17 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=499, page=8, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 8>
+Package pdftex.def Info: PNASEdwards.pdf, page8 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 8>
+Package pdftex.def Info: PNASEdwards.pdf, page8 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 8>
+Package pdftex.def Info: PNASEdwards.pdf, page8 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+ [18 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=505, page=9, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 9>
+Package pdftex.def Info: PNASEdwards.pdf, page9 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 9>
+Package pdftex.def Info: PNASEdwards.pdf, page9 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 9>
+Package pdftex.def Info: PNASEdwards.pdf, page9 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+ [19 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=510, page=10, 587.15056pt x 785.92223pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 10>
+Package pdftex.def Info: PNASEdwards.pdf, page10 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 10>
+Package pdftex.def Info: PNASEdwards.pdf, page10 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 10>
+Package pdftex.def Info: PNASEdwards.pdf, page10 used on input line 126.
+(pdftex.def)             Requested size: 594.60316pt x 795.89781pt.
+ [20 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=516, page=11, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 11>
+Package pdftex.def Info: PNASEdwards.pdf, page11 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 11>
+Package pdftex.def Info: PNASEdwards.pdf, page11 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 11>
+Package pdftex.def Info: PNASEdwards.pdf, page11 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [21 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=536, page=12, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 12>
+Package pdftex.def Info: PNASEdwards.pdf, page12 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 12>
+Package pdftex.def Info: PNASEdwards.pdf, page12 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 12>
+Package pdftex.def Info: PNASEdwards.pdf, page12 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [22 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=540, page=13, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 13>
+Package pdftex.def Info: PNASEdwards.pdf, page13 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 13>
+Package pdftex.def Info: PNASEdwards.pdf, page13 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 13>
+Package pdftex.def Info: PNASEdwards.pdf, page13 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [23 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=544, page=14, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 14>
+Package pdftex.def Info: PNASEdwards.pdf, page14 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 14>
+Package pdftex.def Info: PNASEdwards.pdf, page14 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 14>
+Package pdftex.def Info: PNASEdwards.pdf, page14 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [24 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=548, page=15, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 15>
+Package pdftex.def Info: PNASEdwards.pdf, page15 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 15>
+Package pdftex.def Info: PNASEdwards.pdf, page15 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 15>
+Package pdftex.def Info: PNASEdwards.pdf, page15 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [25 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=556, page=16, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 16>
+Package pdftex.def Info: PNASEdwards.pdf, page16 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 16>
+Package pdftex.def Info: PNASEdwards.pdf, page16 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 16>
+Package pdftex.def Info: PNASEdwards.pdf, page16 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [26 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=561, page=17, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 17>
+Package pdftex.def Info: PNASEdwards.pdf, page17 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 17>
+Package pdftex.def Info: PNASEdwards.pdf, page17 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 17>
+Package pdftex.def Info: PNASEdwards.pdf, page17 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [27 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=571, page=18, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 18>
+Package pdftex.def Info: PNASEdwards.pdf, page18 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 18>
+Package pdftex.def Info: PNASEdwards.pdf, page18 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 18>
+Package pdftex.def Info: PNASEdwards.pdf, page18 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [28 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=575, page=19, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 19>
+Package pdftex.def Info: PNASEdwards.pdf, page19 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 19>
+Package pdftex.def Info: PNASEdwards.pdf, page19 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 19>
+Package pdftex.def Info: PNASEdwards.pdf, page19 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [29 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=583, page=20, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 20>
+Package pdftex.def Info: PNASEdwards.pdf, page20 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 20>
+Package pdftex.def Info: PNASEdwards.pdf, page20 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 20>
+Package pdftex.def Info: PNASEdwards.pdf, page20 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [30 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=591, page=21, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 21>
+Package pdftex.def Info: PNASEdwards.pdf, page21 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 21>
+Package pdftex.def Info: PNASEdwards.pdf, page21 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 21>
+Package pdftex.def Info: PNASEdwards.pdf, page21 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [31 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=595, page=22, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 22>
+Package pdftex.def Info: PNASEdwards.pdf, page22 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 22>
+Package pdftex.def Info: PNASEdwards.pdf, page22 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 22>
+Package pdftex.def Info: PNASEdwards.pdf, page22 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [32 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=621, page=23, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 23>
+Package pdftex.def Info: PNASEdwards.pdf, page23 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 23>
+Package pdftex.def Info: PNASEdwards.pdf, page23 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 23>
+Package pdftex.def Info: PNASEdwards.pdf, page23 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [33 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=629, page=24, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 24>
+Package pdftex.def Info: PNASEdwards.pdf, page24 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 24>
+Package pdftex.def Info: PNASEdwards.pdf, page24 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 24>
+Package pdftex.def Info: PNASEdwards.pdf, page24 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [34 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=657, page=25, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 25>
+Package pdftex.def Info: PNASEdwards.pdf, page25 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 25>
+Package pdftex.def Info: PNASEdwards.pdf, page25 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 25>
+Package pdftex.def Info: PNASEdwards.pdf, page25 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [35 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=681, page=26, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 26>
+Package pdftex.def Info: PNASEdwards.pdf, page26 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 26>
+Package pdftex.def Info: PNASEdwards.pdf, page26 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 26>
+Package pdftex.def Info: PNASEdwards.pdf, page26 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [36 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=689, page=27, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 27>
+Package pdftex.def Info: PNASEdwards.pdf, page27 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 27>
+Package pdftex.def Info: PNASEdwards.pdf, page27 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 27>
+Package pdftex.def Info: PNASEdwards.pdf, page27 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [37 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=974, page=28, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 28>
+Package pdftex.def Info: PNASEdwards.pdf, page28 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 28>
+Package pdftex.def Info: PNASEdwards.pdf, page28 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 28>
+Package pdftex.def Info: PNASEdwards.pdf, page28 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [38 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=979, page=29, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 29>
+Package pdftex.def Info: PNASEdwards.pdf, page29 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 29>
+Package pdftex.def Info: PNASEdwards.pdf, page29 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 29>
+Package pdftex.def Info: PNASEdwards.pdf, page29 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [39 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=998, page=30, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 30>
+Package pdftex.def Info: PNASEdwards.pdf, page30 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 30>
+Package pdftex.def Info: PNASEdwards.pdf, page30 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 30>
+Package pdftex.def Info: PNASEdwards.pdf, page30 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [40 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1002, page=31, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 31>
+Package pdftex.def Info: PNASEdwards.pdf, page31 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 31>
+Package pdftex.def Info: PNASEdwards.pdf, page31 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 31>
+Package pdftex.def Info: PNASEdwards.pdf, page31 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [41 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1018, page=32, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 32>
+Package pdftex.def Info: PNASEdwards.pdf, page32 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 32>
+Package pdftex.def Info: PNASEdwards.pdf, page32 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 32>
+Package pdftex.def Info: PNASEdwards.pdf, page32 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [42 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1059, page=33, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 33>
+Package pdftex.def Info: PNASEdwards.pdf, page33 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 33>
+Package pdftex.def Info: PNASEdwards.pdf, page33 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 33>
+Package pdftex.def Info: PNASEdwards.pdf, page33 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [43 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1063, page=34, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 34>
+Package pdftex.def Info: PNASEdwards.pdf, page34 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 34>
+Package pdftex.def Info: PNASEdwards.pdf, page34 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 34>
+Package pdftex.def Info: PNASEdwards.pdf, page34 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [44 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1085, page=35, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 35>
+Package pdftex.def Info: PNASEdwards.pdf, page35 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 35>
+Package pdftex.def Info: PNASEdwards.pdf, page35 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 35>
+Package pdftex.def Info: PNASEdwards.pdf, page35 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [45 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1102, page=36, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 36>
+Package pdftex.def Info: PNASEdwards.pdf, page36 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 36>
+Package pdftex.def Info: PNASEdwards.pdf, page36 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 36>
+Package pdftex.def Info: PNASEdwards.pdf, page36 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [46 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1190, page=37, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 37>
+Package pdftex.def Info: PNASEdwards.pdf, page37 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 37>
+Package pdftex.def Info: PNASEdwards.pdf, page37 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 37>
+Package pdftex.def Info: PNASEdwards.pdf, page37 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [47 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1242, page=38, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 38>
+Package pdftex.def Info: PNASEdwards.pdf, page38 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 38>
+Package pdftex.def Info: PNASEdwards.pdf, page38 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 38>
+Package pdftex.def Info: PNASEdwards.pdf, page38 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [48 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1246, page=39, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 39>
+Package pdftex.def Info: PNASEdwards.pdf, page39 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 39>
+Package pdftex.def Info: PNASEdwards.pdf, page39 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 39>
+Package pdftex.def Info: PNASEdwards.pdf, page39 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [49 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1271, page=40, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 40>
+Package pdftex.def Info: PNASEdwards.pdf, page40 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 40>
+Package pdftex.def Info: PNASEdwards.pdf, page40 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 40>
+Package pdftex.def Info: PNASEdwards.pdf, page40 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [50 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1296, page=41, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 41>
+Package pdftex.def Info: PNASEdwards.pdf, page41 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 41>
+Package pdftex.def Info: PNASEdwards.pdf, page41 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 41>
+Package pdftex.def Info: PNASEdwards.pdf, page41 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [51 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1304, page=42, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 42>
+Package pdftex.def Info: PNASEdwards.pdf, page42 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 42>
+Package pdftex.def Info: PNASEdwards.pdf, page42 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 42>
+Package pdftex.def Info: PNASEdwards.pdf, page42 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [52 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1357, page=43, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 43>
+Package pdftex.def Info: PNASEdwards.pdf, page43 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 43>
+Package pdftex.def Info: PNASEdwards.pdf, page43 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 43>
+Package pdftex.def Info: PNASEdwards.pdf, page43 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [53 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1436, page=44, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 44>
+Package pdftex.def Info: PNASEdwards.pdf, page44 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 44>
+Package pdftex.def Info: PNASEdwards.pdf, page44 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 44>
+Package pdftex.def Info: PNASEdwards.pdf, page44 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [54 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1523, page=45, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 45>
+Package pdftex.def Info: PNASEdwards.pdf, page45 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 45>
+Package pdftex.def Info: PNASEdwards.pdf, page45 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 45>
+Package pdftex.def Info: PNASEdwards.pdf, page45 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [55 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1625, page=46, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 46>
+Package pdftex.def Info: PNASEdwards.pdf, page46 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 46>
+Package pdftex.def Info: PNASEdwards.pdf, page46 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 46>
+Package pdftex.def Info: PNASEdwards.pdf, page46 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [56 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1785, page=47, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 47>
+Package pdftex.def Info: PNASEdwards.pdf, page47 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 47>
+Package pdftex.def Info: PNASEdwards.pdf, page47 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 47>
+Package pdftex.def Info: PNASEdwards.pdf, page47 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [57 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1797, page=48, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 48>
+Package pdftex.def Info: PNASEdwards.pdf, page48 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 48>
+Package pdftex.def Info: PNASEdwards.pdf, page48 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 48>
+Package pdftex.def Info: PNASEdwards.pdf, page48 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [58 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1806, page=49, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 49>
+Package pdftex.def Info: PNASEdwards.pdf, page49 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 49>
+Package pdftex.def Info: PNASEdwards.pdf, page49 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 49>
+Package pdftex.def Info: PNASEdwards.pdf, page49 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [59 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1814, page=50, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 50>
+Package pdftex.def Info: PNASEdwards.pdf, page50 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 50>
+Package pdftex.def Info: PNASEdwards.pdf, page50 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 50>
+Package pdftex.def Info: PNASEdwards.pdf, page50 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [60 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1978, page=51, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 51>
+Package pdftex.def Info: PNASEdwards.pdf, page51 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 51>
+Package pdftex.def Info: PNASEdwards.pdf, page51 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 51>
+Package pdftex.def Info: PNASEdwards.pdf, page51 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [61 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1982, page=52, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 52>
+Package pdftex.def Info: PNASEdwards.pdf, page52 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 52>
+Package pdftex.def Info: PNASEdwards.pdf, page52 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 52>
+Package pdftex.def Info: PNASEdwards.pdf, page52 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [62 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1987, page=53, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 53>
+Package pdftex.def Info: PNASEdwards.pdf, page53 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 53>
+Package pdftex.def Info: PNASEdwards.pdf, page53 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 53>
+Package pdftex.def Info: PNASEdwards.pdf, page53 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [63 <./PNASEdwards.pdf>]
+<PNASEdwards.pdf, id=1991, page=54, 614.295pt x 794.97pt>
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 54>
+Package pdftex.def Info: PNASEdwards.pdf, page54 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+ <use PNASEdwards.pdf, page 54>
+Package pdftex.def Info: PNASEdwards.pdf, page54 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+File: PNASEdwards.pdf Graphic file (type pdf)
+
+<use PNASEdwards.pdf, page 54>
+Package pdftex.def Info: PNASEdwards.pdf, page54 used on input line 126.
+(pdftex.def)             Requested size: 622.09213pt x 805.06042pt.
+ [64 <./PNASEdwards.pdf>]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex
+Chapter 3.
+[65
+
+
+] [66]
+Overfull \hbox (0.6705pt too wide) in paragraph at lines 14--15
+[]\T1/mdput/m/n/12 Asian rice (\T1/mdput/m/it/12 Oryza sativa\T1/mdput/m/n/12 )
+ is pri-mar-ily cul-ti-vated un-der flooded con-di-tions, a growth habit
+ []
+
+LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
+(Font)              scaled to size 13.53603pt on input line 17.
+
+Overfull \hbox (1.5932pt too wide) in paragraph at lines 17--17
+[]\T1/mdput/b/n/14.4 Plant root-associated mi-cro-biomes are in-flu-enced by en
+-vi-ron-men-
+ []
+
+[67]
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 10.29301pt on input line 22.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 10.29301pt on input line 25.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 10.29301pt on input line 25.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 10.29301pt on input line 25.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 10.29301pt on input line 25.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 10.29301pt on input line 25.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 10.29301pt on input line 25.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 10.29301pt on input line 25.
+LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
+(Font)              scaled to size 10.29301pt on input line 27.
+LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
+(Font)              scaled to size 10.29301pt on input line 30.
+
+Overfull \hbox (0.90112pt too wide) in paragraph at lines 25--39
+ [][] 
+ []
+
+<Figures/figure2_1.pdf, id=2004, 896.76357pt x 553.77177pt>
+File: Figures/figure2_1.pdf Graphic file (type pdf)
+
+<use Figures/figure2_1.pdf>
+Package pdftex.def Info: Figures/figure2_1.pdf used on input line 45.
+(pdftex.def)             Requested size: 433.62pt x 267.76779pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[68] [69 <./Figures/figure2_1.pdf>]
+<Figures/figure2_2.pdf, id=2916, 636.49948pt x 371.27502pt>
+File: Figures/figure2_2.pdf Graphic file (type pdf)
+
+<use Figures/figure2_2.pdf>
+Package pdftex.def Info: Figures/figure2_2.pdf used on input line 80.
+(pdftex.def)             Requested size: 433.62pt x 252.9452pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[70] [71 <./Figures/figure2_2.pdf>]
+Overfull \hbox (13.60883pt too wide) in paragraph at lines 88--89
+\T1/mdput/m/n/12 Ver-ru-comi-cro-bia in the rhi-zo-sphere soil and en-riched fo
+r Be-tapro-teobac-te-ria and Gammapro-
+ []
+
+
+Overfull \hbox (12.6274pt too wide) in paragraph at lines 88--89
+\T1/mdput/m/n/12 dobac-te-ria, Acti-nobac-te-ria, and Chlo-roflexi in the rhi-z
+o-sphere soil, and de-pleted for Deltapro-
+ []
+
+
+Overfull \hbox (22.1815pt too wide) in paragraph at lines 90--90
+[]\T1/mdput/b/n/14.4 Rice ac-quires an out-lier mi-cro-biome com-pared to na-ti
+ve plant species. 
+ []
+
+<Figures/figure2_3.pdf, id=3400, 445.19621pt x 242.645pt>
+File: Figures/figure2_3.pdf Graphic file (type pdf)
+
+<use Figures/figure2_3.pdf>
+Package pdftex.def Info: Figures/figure2_3.pdf used on input line 96.
+(pdftex.def)             Requested size: 361.34999pt x 196.94862pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[72]
+Overfull \hbox (14.09938pt too wide) in paragraph at lines 107--108
+[]\T1/mdput/m/n/12 In the set of dif-fer-en-tially abun-dant mi-crobes we found
+ 8 OTUs be-long-ing to methanogenic
+ []
+
+
+Overfull \hbox (7.53456pt too wide) in paragraph at lines 107--108
+\T1/mdput/m/n/12 and \T1/mdput/m/it/12 Methanosarcina \T1/mdput/m/n/12 gen-era 
+in the rhi-zo-sphere and the \T1/mdput/m/it/12 Methanobac-terium \T1/mdput/m/n/
+12 and \T1/mdput/m/it/12 Methanocella
+ []
+
+[73 <./Figures/figure2_3.pdf>]
+<Figures/figure2_4.pdf, id=3567, 740.41762pt x 466.03505pt>
+File: Figures/figure2_4.pdf Graphic file (type pdf)
+
+<use Figures/figure2_4.pdf>
+Package pdftex.def Info: Figures/figure2_4.pdf used on input line 111.
+(pdftex.def)             Requested size: 361.34999pt x 227.44183pt.
+
+Overfull \hbox (20.77705pt too wide) in paragraph at lines 116--117
+[]\T1/mdput/m/n/12 Methane can be ox-i-dized by methan-otrophic eu-bac-te-ria u
+n-der aer-o-bic con-di-tions. Methan-
+ []
+
+[74 <./Figures/figure2_4.pdf>]
+Overfull \hbox (0.18571pt too wide) in paragraph at lines 118--119
+\T1/mdput/m/n/12 otrophic OTUs en-riched in the rhi-zo-sphere and 5 unique met
+han-otrophic OTUs en-riched
+ []
+
+
+Overfull \hbox (10.75505pt too wide) in paragraph at lines 120--121
+\T1/mdput/m/n/12 as roots con-tain the high-est lev-els of oxy-gen in an oth-er
+-wise anoxic en-vi-ron-ment and methan-
+ []
+
+[75] <Figures/figure2_5.pdf, id=3870, 701.51079pt x 480.31839pt>
+File: Figures/figure2_5.pdf Graphic file (type pdf)
+
+<use Figures/figure2_5.pdf>
+Package pdftex.def Info: Figures/figure2_5.pdf used on input line 127.
+(pdftex.def)             Requested size: 433.62pt x 296.89284pt.
+ [76 <./Figures/figure2_5.pdf>] [77] [78]
+Overfull \hbox (4.99097pt too wide) in paragraph at lines 141--142
+\T1/mdput/m/n/12 methanogenic ar-chaea com-pared to the na-tive plants. Rice pl
+ants host a higher methanogen
+ []
+
+
+Overfull \hbox (14.2912pt too wide) in paragraph at lines 143--144
+[]\T1/mdput/m/n/12 Intensive agri-cul-ture has un-known con-se-quences on the m
+i-cro-biota of agri-cul-tural ecosys-
+ []
+
+[79] [80]
+Overfull \hbox (17.05806pt too wide) in paragraph at lines 149--150
+\T1/mdput/m/n/12 Assembled 16S rRNA gene se-quences and meta-data were down-loa
+ded from the QI-ITA database
+ []
+
+[81] [82] [83] <Figures/figure2_s1.pdf, id=4133, 399.49213pt x 680.01611pt>
+File: Figures/figure2_s1.pdf Graphic file (type pdf)
+
+<use Figures/figure2_s1.pdf>
+Package pdftex.def Info: Figures/figure2_s1.pdf used on input line 172.
+(pdftex.def)             Requested size: 289.07999pt x 492.09114pt.
+ [84 <./Figures/figure2_s1.pdf>]
+<Figures/figure2_s2.pdf, id=4365, 398.48875pt x 277.035pt>
+File: Figures/figure2_s2.pdf Graphic file (type pdf)
+
+<use Figures/figure2_s2.pdf>
+Package pdftex.def Info: Figures/figure2_s2.pdf used on input line 182.
+(pdftex.def)             Requested size: 289.07999pt x 200.97838pt.
+) [85 <./Figures/figure2_s2.pdf>]
+\openout2 = `chapter4.aux'.
+
+ (./chapter4.tex
+Chapter 4.
+LaTeX Font Info:    Font shape `T1/mdput/b/it' will be
+(Font)              scaled to size 23.38725pt on input line 1.
+
+Overfull \hbox (2.72374pt too wide) in paragraph at lines 6--7
+\T1/mdput/m/n/12 biota which can aid the plant in as-sim-i-lat-ing nu-tri-ents,
+ re-duc-ing sus-cep-ti-bil-ity to pathogens,
+ []
+
+[86
+
+
+
+] [87] <Figures/figure3_1.pdf, id=4411, 453.89203pt x 519.78952pt>
+File: Figures/figure3_1.pdf Graphic file (type pdf)
+
+<use Figures/figure3_1.pdf>
+Package pdftex.def Info: Figures/figure3_1.pdf used on input line 22.
+(pdftex.def)             Requested size: 361.34999pt x 413.82555pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[88]
+Overfull \hbox (5.56038pt too wide) in paragraph at lines 29--30
+[]\T1/mdput/m/n/12 We next mea-sured the ef-fect of plant age on the root-assoc
+iated mi-cro-biota. Per-MANOVA
+ []
+
+[89 <./Figures/figure3_1.pdf>]
+<Figures/figure3_2.pdf, id=4710, 462.73537pt x 704.16727pt>
+File: Figures/figure3_2.pdf Graphic file (type pdf)
+
+<use Figures/figure3_2.pdf>
+Package pdftex.def Info: Figures/figure3_2.pdf used on input line 36.
+(pdftex.def)             Requested size: 307.14749pt x 467.41653pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[90] [91 <./Figures/figure3_2.pdf>] [92]
+<Figures/figure3_3.pdf, id=5470, 829.38434pt x 679.05759pt>
+File: Figures/figure3_3.pdf Graphic file (type pdf)
+
+<use Figures/figure3_3.pdf>
+Package pdftex.def Info: Figures/figure3_3.pdf used on input line 53.
+(pdftex.def)             Requested size: 433.62pt x 355.02887pt.
+ [93 <./Figures/figure3_3.pdf>] [94] [95]
+<Figures/figure3_4.pdf, id=6787, 508.47282pt x 276.46141pt>
+File: Figures/figure3_4.pdf Graphic file (type pdf)
+
+<use Figures/figure3_4.pdf>
+Package pdftex.def Info: Figures/figure3_4.pdf used on input line 68.
+(pdftex.def)             Requested size: 361.34999pt x 196.47035pt.
+
+<Figures/figure3_5.pdf, id=6788, 700.94986pt x 458.40982pt>
+File: Figures/figure3_5.pdf Graphic file (type pdf)
+
+<use Figures/figure3_5.pdf>
+Package pdftex.def Info: Figures/figure3_5.pdf used on input line 80.
+(pdftex.def)             Requested size: 433.62pt x 283.58162pt.
+ [96 <./Figures/figure3_4.pdf>] [97 <./Figures/figure3_5.pdf>] [98] <Figures/fi
+gure3_6.pdf, id=7677, 388.48436pt x 855.59854pt>
+File: Figures/figure3_6.pdf Graphic file (type pdf)
+
+<use Figures/figure3_6.pdf>
+Package pdftex.def Info: Figures/figure3_6.pdf used on input line 94.
+(pdftex.def)             Requested size: 216.81pt x 477.51305pt.
+ [99] [100 <./Figures/figure3_6.pdf>] [101] [102]
+[103] [104]
+Overfull \hbox (5.73553pt too wide) in paragraph at lines 131--132
+\T1/mdput/m/n/12 The re-sult-ing se-quences were de-mul-ti-plexed us-ing the ba
+r-code se-quences by cus-tom Python
+ []
+
+[105] [106] [107] <Figures/figure3_s1.pdf, id=9787, 384.49901pt x 168.69481pt>
+File: Figures/figure3_s1.pdf Graphic file (type pdf)
+
+<use Figures/figure3_s1.pdf>
+Package pdftex.def Info: Figures/figure3_s1.pdf used on input line 149.
+(pdftex.def)             Requested size: 361.34999pt x 158.54996pt.
+ [108 <./Figures/figure3_s1.pdf>]
+<Figures/figure3_s2.pdf, id=9838, 625.39905pt x 489.89482pt>
+File: Figures/figure3_s2.pdf Graphic file (type pdf)
+
+<use Figures/figure3_s2.pdf>
+Package pdftex.def Info: Figures/figure3_s2.pdf used on input line 159.
+(pdftex.def)             Requested size: 433.62pt x 339.6798pt.
+ [109 <./Figures/figure3_s2.pdf>]
+<Figures/figure3_s3.pdf, id=10107, 409.59276pt x 181.74355pt>
+File: Figures/figure3_s3.pdf Graphic file (type pdf)
+
+<use Figures/figure3_s3.pdf>
+Package pdftex.def Info: Figures/figure3_s3.pdf used on input line 169.
+(pdftex.def)             Requested size: 289.07999pt x 128.27896pt.
+) [110 <./Figures/figure3_s3.pdf>]
+\openout2 = `conclusion.aux'.
+
+
+(./conclusion.tex
+Chapter 5.
+[111
+
+
+
+] <Figures/figurec_1.pdf, id=10165, 441.65pt x 144.71893pt>
+File: Figures/figurec_1.pdf Graphic file (type pdf)
+
+<use Figures/figurec_1.pdf>
+Package pdftex.def Info: Figures/figurec_1.pdf used on input line 14.
+(pdftex.def)             Requested size: 361.34999pt x 118.41191pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[112] [113 <./Figures/figurec_1.pdf>]
+Overfull \hbox (6.91017pt too wide) in paragraph at lines 25--26
+\T1/mdput/m/n/12 have func-tional and en-vi-ron-men-tal im-pacts as the rice pl
+ants host more methanogenic
+ []
+
+<Figures/figurec_2.pdf, id=10181, 401.5pt x 195.46562pt>
+File: Figures/figurec_2.pdf Graphic file (type pdf)
+
+<use Figures/figurec_2.pdf>
+Package pdftex.def Info: Figures/figurec_2.pdf used on input line 30.
+(pdftex.def)             Requested size: 433.62pt x 211.11761pt.
+ [114 <./Figures/figurec_2.pdf>]
+Overfull \hbox (8.18472pt too wide) in paragraph at lines 40--41
+[]\T1/mdput/m/n/12 The mi-cro-biota shifts dur-ing the veg-e-ta-tive phase of t
+he rice plant's life (i.e. the seedling
+ []
+
+<Figures/figurec_3.pdf, id=10205, 441.65349pt x 152.09021pt>
+File: Figures/figurec_3.pdf Graphic file (type pdf)
+
+<use Figures/figurec_3.pdf>
+Package pdftex.def Info: Figures/figurec_3.pdf used on input line 45.
+(pdftex.def)             Requested size: 361.34999pt x 124.44324pt.
+ [115]) [116 <./Figures/figurec_3.pdf>]
+(./joe_edwards_dissertation_main.bbl
+Underfull \hbox (badness 1038) in paragraph at lines 4--8
+[]\T1/mdput/m/n/12 Gabriel A. Al-Ghalith, Em-manuel Mon-tassier, Henry N. Ward,
+ and Dan Knights.
+ []
+
+[117
+
+
+] [118]
+Underfull \hbox (badness 1168) in paragraph at lines 207--210
+[]\T1/mdput/m/n/12 Bruce Lin-quist and Robert Hi-j-mans.  AN-NUAL RE-PORT COM-P
+RE-HEN-SIVE RE-
+ []
+
+[119]
+Underfull \hbox (badness 2351) in paragraph at lines 261--266
+[]\T1/mdput/m/n/12 Jari Ok-sa-nen, F. Guil-laume Blanchet, Roe-land Kindt, Pier
+re Leg-en-dre, Pe-ter R.
+ []
+
+[120] [121]
+Underfull \hbox (badness 1675) in paragraph at lines 411--418
+[]\T1/mdput/m/n/12 Tanya Yat-sunenko, Fed-erico E. Rey, Mark J. Ma-n-ary, Indi 
+Tre-han, Maria Glo-ria
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 420--425
+[]\T1/mdput/m/n/12 Iratxe Zarraon-ain-dia, Sarah M. Owens, Pamela Weisen-horn, 
+Kristin West, Jar-rad
+ []
+
+) [122]
+Overfull \hbox (16.17401pt too wide) in paragraph at lines 144--144
+[]\T1/mdput/m/n/12 In the sec-ond chap-ter, I present the re-sults of a study c
+har-ac-ter-iz-ing the rice root-associated
+ []
+
+
+Overfull \hbox (4.5443pt too wide) in paragraph at lines 144--144
+[]\T1/mdput/m/n/12 In the third chap-ter, I present the re-sults of a study cha
+r-ac-ter-iz-ing the rice root-associated
+ []
+
+
+Overfull \hbox (5.41289pt too wide) in paragraph at lines 144--144
+[]\T1/mdput/m/n/12 In the fourth chap-ter, I demon-strate how the rice root-ass
+ociated mi-cro-biota shifts across
+ []
+
+[1] [2] (./joe_edwards_dissertation_main.aux (./introduction.aux)
+(./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./conclusion.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7148 strings out of 493117
+ 107786 string characters out of 6135433
+ 175593 words of memory out of 5000000
+ 10337 multiletter control sequences out of 15000+600000
+ 202234 words of font info for 133 fonts, out of 8000000 for 9000
+ 1148 hyphenation exceptions out of 8191
+ 40i,18n,77p,2531b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/mathdesign/mdput/md-utr7t.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathdesign/mdput/md-utr7y.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathdesign/mdput/md-
+utr8t.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathdesign/mdp
+ut/md-utri7m.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/p
+utb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putbi8a.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on joe_edwards_dissertation_main.pdf (135 pages, 30141515 bytes)
+.
+PDF statistics:
+ 10294 PDF objects out of 10688 (max. 8388607)
+ 6514 compressed objects within 66 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 391 words of extra memory for PDF output out of 10000 (max. 10000000)
+
