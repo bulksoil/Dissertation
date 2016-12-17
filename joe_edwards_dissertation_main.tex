@@ -1,0 +1,146 @@
+%\documentclass[12pt,draftcls]{ucdavisthesis}
+\documentclass[12pt]{ucdavisthesis}
+
+% PLEASE READ THE MANUAL - ucdavisthesis.pdf (in the package installation directory)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%               LATEX COMMANDS FOR DOCUMENT SETUP                      %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\usepackage{bookmark}
+\usepackage[us,nodayofweek,12hr]{datetime}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage[labelfont=bf,font=scriptsize]{caption}
+%\usepackage[square,comma,numbers,sort&compress]{natbib}
+%\usepackage{hypernat}
+% Other useful packages to try
+%\usepackage{amsmath}
+%\usepackage{amssymb}
+%
+% Different fonts to try (uncomment only fontenc and one font at a time)
+% (you may need to install these first)
+\usepackage[T1]{fontenc} %enable fontenc package if using one of the fonts below
+\usepackage[adobe-utopia]{mathdesign}
+%\usepackage{tgschola}
+%\usepackage{tgbonum}
+%\usepackage{tgpagella}
+%\usepackage{tgtermes}
+%\usepackage{fourier}
+%\usepackage{fouriernc}
+%\usepackage{kmath,kerkis}
+%\usepackage{kpfonts}
+%\usepackage[urw-garamond]{mathdesign}
+%\usepackage[bitstream-charter]{mathdesign}
+%\usepackage[sc]{mathpazo}
+%\usepackage{mathptmx}
+%\usepackage[varg]{txfonts}
+\usepackage[final]{pdfpages}
+\usepackage{color, colortbl}
+
+\hyphenation{dis-ser-ta-tion blue-print man-u-script pre-par-ing Phy-lo-gen-etic Pro-kar-y-ot-ic as-so-ci-at-ed} %add hyphenation rules for words TeX doesn't know
+
+
+%\renewcommand{\rightmark}{\scriptsize A University of California Davis\ldots \hfill Rev.~\#1.0 \quad Compiled: \currenttime, \today}
+% a fancier running header that can be used with draftcls options
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%        DOCUMENT SETUP AND INFORMATION FOR PRELIMINARY PAGES          %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title          {Structure, Variation, and Dynamics of the Root-Associated Microbiota of the Crop Plant Rice}
+%Exact title of your thesis. Indicate italics where necessary by underlining or using italics. Please capitalize the first letter of each word that would normally be capitalized in a title.
+
+\author         {Joseph Andrew Arthur Edwards}
+%Your full name as it appears on University records. Do not use initials.
+
+\authordegrees  {B.S. (Virginia Polytechnic Institute and State University) 2011}
+%Indicate your previous degrees conferred.
+
+\officialmajor  {Plant Biolgy}
+%This is your official major as it appears on your University records.
+
+\graduateprogram{Plant Biology}
+%This is your official graduate program name. Used for UMI abstract.
+
+\degreeyear     {2016}
+% Indicate the year in which your degree will be officially conferred.
+
+\degreemonth    {December}
+% Indicate the month in which your degree will be officially conferred. Used for UMI abstract.
+
+\committee{Venkatesan Sundaresan, Chair}{Siobhan Brady}{Kate Scow}{}{}
+% These are your committee members. The command accepts up to five committee members so be sure to have five sets of braces, even if there are empties.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\copyrightyear{2020}
+%\nocopyright
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\dedication{\textsl{To my family \\
+            For your inexhaustible love and support}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\abstract{Soil microbes are important mediators of plant nutrition, growth, and resistance to biotic and abiotic stresses, thus understanding the composition and dynamics of plant root-associated microbial communities is of importance to scientists and farmers. Plants acquire root-associated microbiota that are distinct from that of the surrounding soil. In this thesis I detail general characteristics of the rice root-associated microbiota. 
+
+In the first chapter I introduce the importance of both animal and plant microbiota and I discuss the technological breakthroughs that have allowed scientists to study complex microbial ecosystems. 
+
+In the second chapter, I present the results of a study characterizing the rice root-associated microbiota across three root compartments: the soil adjacent to the root (the rhizosphere), the root surface (the rhizoplane), and the root interior (the endosphere). I present how the composition of the microbiota in these compartments varies across soil type, cultivation practice, and host plant genotype. 
+
+In the third chapter, I present the results of a study characterizing the rice root-associated microbiota compared to diverse species of both crop plants and native plants growing in the same environment as rice. The results suggest that rice assimilates a unique root-associated microbiota and that plant phylogenetic variation cannot fully explain microbiota variation between the tested host plants. A comparison of the root-associated microbiomes of rice with microbiota of soil from cultivated fields and non-cultivated soils, suggests that rice cultivation changes the overall soil microbiome in rice fields not only through agricultural inputs and water submergence, but also through specific enrichment of microbial taxa by rice plants. 
+
+In the fourth chapter, I demonstrate how the rice root-associated microbiota shifts across the lifecycle of the host plants under field conditions. We find that the composition of the microbiome shifts throughout vegetative growth until the initiation of reproductive growth, whereupon the microbiome stabilizes. These results suggest that plants select for different microbiota as they undergo developmental changes from germination to reproduction. 
+
+I present concluding remarks on the various models of microbiota acquisition and discuss future implications of this research in the fifth and final chapter of this dissertation.
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\acknowledgments{Acknowledgements to those who helped you get to this point. They should be listed by chapter when appropriate.}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Each chapter can be in its own file for easier editing and brought in with the \include command.
+% Then use the \includeonly command to speed compilation when working on a particular chapter.
+%%% \includeonly{ucdavisthesis_example_Chap1}
+
+\begin{document}
+
+\newcommand{\bibfont}{\singlespacing}
+% need this command to keep single spacing in the bibliography when using natbib
+
+\bibliographystyle{plain}
+%many other bibliography styles are available (IEEEtran, mla, etc.). Use one appropriate for your field.
+
+\makeintropages %Processes/produces the preliminary pages
+
+\include{introduction}
+\include{chapter2}
+\includepdf[pages=-]{PNASEdwards.pdf}
+\include{chapter3}
+\include{chapter4}
+\include{conclusion}
+
+\bibliography{dissertation}
+
+% The UMI abstract uses square brackets!
+\UMIabstract[Soil microbes are important mediators of plant nutrition, growth, and resistance to biotic and abiotic stresses, thus understanding the composition and dynamics of plant root-associated microbial communities is of importance to scientists and farmers. Plants acquire root-associated microbiota that are distinct from that of the surrounding soil. In this thesis I detail general characteristics of the rice root-associated microbiota. 
+
+In the first chapter I introduce the importance of both animal and plant microbiota and I discuss the technological breakthroughs that have allowed scientists to study complex microbial ecosystems. 
+
+In the second chapter, I present the results of a study characterizing the rice root-associated microbiota across three root compartments: the soil adjacent to the root (the rhizosphere), the root surface (the rhizoplane), and the root interior (the endosphere). I present how the composition of the microbiota in these compartments varies across soil type, cultivation practice, and host plant genotype. 
+
+In the third chapter, I present the results of a study characterizing the rice root-associated microbiota compared to diverse species of both crop plants and native plants growing in the same environment as rice. The results suggest that rice assimilates a unique root-associated microbiota and that plant phylogenetic variation cannot fully explain microbiota variation between the tested host plants. A comparison of the root-associated microbiomes of rice with microbiota of soil from cultivated fields and non-cultivated soils, suggests that rice cultivation changes the overall soil microbiome in rice fields not only through agricultural inputs and water submergence, but also through specific enrichment of microbial taxa by rice plants. 
+
+In the fourth chapter, I demonstrate how the rice root-associated microbiota shifts across the lifecycle of the host plants under field conditions. We find that the composition of the microbiome shifts throughout vegetative growth until the initiation of reproductive growth, whereupon the microbiome stabilizes. These results suggest that plants select for different microbiota as they undergo developmental changes from germination to reproduction. 
+
+I present concluding remarks on the various models of microbiota acquisition and discuss future implications of this research in the fifth and final chapter of this dissertation.] 
+
+\end{document} 
