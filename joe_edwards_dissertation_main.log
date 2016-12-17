@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  16 DEC 2016 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  16 DEC 2016 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1766,13 +1766,20 @@ File: Figures/figure2_s1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/figure2_s1.pdf used on input line 172.
 (pdftex.def)             Requested size: 289.07999pt x 492.09114pt.
  [84 <./Figures/figure2_s1.pdf>]
-<Figures/figure2_s2.pdf, id=4365, 398.48875pt x 277.035pt>
+<Figures/figure2_s2.pdf, id=4365, 564.22899pt x 419.24127pt>
 File: Figures/figure2_s2.pdf Graphic file (type pdf)
 
 <use Figures/figure2_s2.pdf>
 Package pdftex.def Info: Figures/figure2_s2.pdf used on input line 182.
+(pdftex.def)             Requested size: 433.62pt x 322.19624pt.
+ [85 <./Figures/figure2_s2.pdf>]
+<Figures/figure2_s3.pdf, id=4399, 398.48875pt x 277.035pt>
+File: Figures/figure2_s3.pdf Graphic file (type pdf)
+
+<use Figures/figure2_s3.pdf>
+Package pdftex.def Info: Figures/figure2_s3.pdf used on input line 192.
 (pdftex.def)             Requested size: 289.07999pt x 200.97838pt.
-) [85 <./Figures/figure2_s2.pdf>]
+) [86 <./Figures/figure2_s3.pdf>]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1785,11 +1792,11 @@ Overfull \hbox (2.72374pt too wide) in paragraph at lines 6--7
  re-duc-ing sus-cep-ti-bil-ity to pathogens,
  []
 
-[86
+[87
 
 
 
-] [87] <Figures/figure3_1.pdf, id=4411, 453.89203pt x 519.78952pt>
+] [88] <Figures/figure3_1.pdf, id=4446, 453.89203pt x 519.78952pt>
 File: Figures/figure3_1.pdf Graphic file (type pdf)
 
 <use Figures/figure3_1.pdf>
@@ -1799,14 +1806,14 @@ Package pdftex.def Info: Figures/figure3_1.pdf used on input line 22.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[88]
+[89]
 Overfull \hbox (5.56038pt too wide) in paragraph at lines 29--30
 []\T1/mdput/m/n/12 We next mea-sured the ef-fect of plant age on the root-assoc
 iated mi-cro-biota. Per-MANOVA
  []
 
-[89 <./Figures/figure3_1.pdf>]
-<Figures/figure3_2.pdf, id=4710, 462.73537pt x 704.16727pt>
+[90 <./Figures/figure3_1.pdf>]
+<Figures/figure3_2.pdf, id=4745, 462.73537pt x 704.16727pt>
 File: Figures/figure3_2.pdf Graphic file (type pdf)
 
 <use Figures/figure3_2.pdf>
@@ -1816,72 +1823,72 @@ Package pdftex.def Info: Figures/figure3_2.pdf used on input line 36.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[90] [91 <./Figures/figure3_2.pdf>] [92]
-<Figures/figure3_3.pdf, id=5470, 829.38434pt x 679.05759pt>
+[91] [92 <./Figures/figure3_2.pdf>] [93]
+<Figures/figure3_3.pdf, id=5505, 829.38434pt x 679.05759pt>
 File: Figures/figure3_3.pdf Graphic file (type pdf)
 
 <use Figures/figure3_3.pdf>
 Package pdftex.def Info: Figures/figure3_3.pdf used on input line 53.
 (pdftex.def)             Requested size: 433.62pt x 355.02887pt.
- [93 <./Figures/figure3_3.pdf>] [94] [95]
-<Figures/figure3_4.pdf, id=6787, 508.47282pt x 276.46141pt>
+ [94 <./Figures/figure3_3.pdf>] [95] [96]
+<Figures/figure3_4.pdf, id=6821, 508.47282pt x 276.46141pt>
 File: Figures/figure3_4.pdf Graphic file (type pdf)
 
 <use Figures/figure3_4.pdf>
 Package pdftex.def Info: Figures/figure3_4.pdf used on input line 68.
 (pdftex.def)             Requested size: 361.34999pt x 196.47035pt.
 
-<Figures/figure3_5.pdf, id=6788, 700.94986pt x 458.40982pt>
+<Figures/figure3_5.pdf, id=6822, 700.94986pt x 458.40982pt>
 File: Figures/figure3_5.pdf Graphic file (type pdf)
 
 <use Figures/figure3_5.pdf>
 Package pdftex.def Info: Figures/figure3_5.pdf used on input line 80.
 (pdftex.def)             Requested size: 433.62pt x 283.58162pt.
- [96 <./Figures/figure3_4.pdf>] [97 <./Figures/figure3_5.pdf>] [98] <Figures/fi
-gure3_6.pdf, id=7677, 388.48436pt x 855.59854pt>
+ [97 <./Figures/figure3_4.pdf>] [98 <./Figures/figure3_5.pdf>] [99] <Figures/fi
+gure3_6.pdf, id=7711, 388.48436pt x 855.59854pt>
 File: Figures/figure3_6.pdf Graphic file (type pdf)
 
 <use Figures/figure3_6.pdf>
 Package pdftex.def Info: Figures/figure3_6.pdf used on input line 94.
 (pdftex.def)             Requested size: 216.81pt x 477.51305pt.
- [99] [100 <./Figures/figure3_6.pdf>] [101] [102]
-[103] [104]
+ [100] [101 <./Figures/figure3_6.pdf>] [102]
+[103] [104] [105]
 Overfull \hbox (5.73553pt too wide) in paragraph at lines 131--132
 \T1/mdput/m/n/12 The re-sult-ing se-quences were de-mul-ti-plexed us-ing the ba
 r-code se-quences by cus-tom Python
  []
 
-[105] [106] [107] <Figures/figure3_s1.pdf, id=9787, 384.49901pt x 168.69481pt>
+[106] [107] [108] <Figures/figure3_s1.pdf, id=9821, 384.49901pt x 168.69481pt>
 File: Figures/figure3_s1.pdf Graphic file (type pdf)
 
 <use Figures/figure3_s1.pdf>
 Package pdftex.def Info: Figures/figure3_s1.pdf used on input line 149.
 (pdftex.def)             Requested size: 361.34999pt x 158.54996pt.
- [108 <./Figures/figure3_s1.pdf>]
-<Figures/figure3_s2.pdf, id=9838, 625.39905pt x 489.89482pt>
+ [109 <./Figures/figure3_s1.pdf>]
+<Figures/figure3_s2.pdf, id=9872, 625.39905pt x 489.89482pt>
 File: Figures/figure3_s2.pdf Graphic file (type pdf)
 
 <use Figures/figure3_s2.pdf>
 Package pdftex.def Info: Figures/figure3_s2.pdf used on input line 159.
 (pdftex.def)             Requested size: 433.62pt x 339.6798pt.
- [109 <./Figures/figure3_s2.pdf>]
-<Figures/figure3_s3.pdf, id=10107, 409.59276pt x 181.74355pt>
+ [110 <./Figures/figure3_s2.pdf>]
+<Figures/figure3_s3.pdf, id=10142, 409.59276pt x 181.74355pt>
 File: Figures/figure3_s3.pdf Graphic file (type pdf)
 
 <use Figures/figure3_s3.pdf>
 Package pdftex.def Info: Figures/figure3_s3.pdf used on input line 169.
 (pdftex.def)             Requested size: 289.07999pt x 128.27896pt.
-) [110 <./Figures/figure3_s3.pdf>]
+) [111 <./Figures/figure3_s3.pdf>]
 \openout2 = `conclusion.aux'.
 
 
 (./conclusion.tex
 Chapter 5.
-[111
+[112
 
 
 
-] <Figures/figurec_1.pdf, id=10165, 441.65pt x 144.71893pt>
+] <Figures/figurec_1.pdf, id=10200, 441.65pt x 144.71893pt>
 File: Figures/figurec_1.pdf Graphic file (type pdf)
 
 <use Figures/figurec_1.pdf>
@@ -1891,53 +1898,53 @@ Package pdftex.def Info: Figures/figurec_1.pdf used on input line 14.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[112] [113 <./Figures/figurec_1.pdf>]
+[113] [114 <./Figures/figurec_1.pdf>]
 Overfull \hbox (6.91017pt too wide) in paragraph at lines 25--26
 \T1/mdput/m/n/12 have func-tional and en-vi-ron-men-tal im-pacts as the rice pl
 ants host more methanogenic
  []
 
-<Figures/figurec_2.pdf, id=10181, 401.5pt x 195.46562pt>
+<Figures/figurec_2.pdf, id=10215, 401.5pt x 195.46562pt>
 File: Figures/figurec_2.pdf Graphic file (type pdf)
 
 <use Figures/figurec_2.pdf>
 Package pdftex.def Info: Figures/figurec_2.pdf used on input line 30.
 (pdftex.def)             Requested size: 433.62pt x 211.11761pt.
- [114 <./Figures/figurec_2.pdf>]
+ [115 <./Figures/figurec_2.pdf>]
 Overfull \hbox (8.18472pt too wide) in paragraph at lines 40--41
 []\T1/mdput/m/n/12 The mi-cro-biota shifts dur-ing the veg-e-ta-tive phase of t
 he rice plant's life (i.e. the seedling
  []
 
-<Figures/figurec_3.pdf, id=10205, 441.65349pt x 152.09021pt>
+<Figures/figurec_3.pdf, id=10239, 441.65349pt x 152.09021pt>
 File: Figures/figurec_3.pdf Graphic file (type pdf)
 
 <use Figures/figurec_3.pdf>
 Package pdftex.def Info: Figures/figurec_3.pdf used on input line 45.
 (pdftex.def)             Requested size: 361.34999pt x 124.44324pt.
- [115]) [116 <./Figures/figurec_3.pdf>]
+ [116]) [117 <./Figures/figurec_3.pdf>]
 (./joe_edwards_dissertation_main.bbl
 Underfull \hbox (badness 1038) in paragraph at lines 4--8
 []\T1/mdput/m/n/12 Gabriel A. Al-Ghalith, Em-manuel Mon-tassier, Henry N. Ward,
  and Dan Knights.
  []
 
-[117
+[118
 
 
-] [118]
+] [119]
 Underfull \hbox (badness 1168) in paragraph at lines 207--210
 []\T1/mdput/m/n/12 Bruce Lin-quist and Robert Hi-j-mans.  AN-NUAL RE-PORT COM-P
 RE-HEN-SIVE RE-
  []
 
-[119]
+[120]
 Underfull \hbox (badness 2351) in paragraph at lines 261--266
 []\T1/mdput/m/n/12 Jari Ok-sa-nen, F. Guil-laume Blanchet, Roe-land Kindt, Pier
 re Leg-en-dre, Pe-ter R.
  []
 
-[120] [121]
+[121] [122]
 Underfull \hbox (badness 1675) in paragraph at lines 411--418
 []\T1/mdput/m/n/12 Tanya Yat-sunenko, Fed-erico E. Rey, Mark J. Ma-n-ary, Indi 
 Tre-han, Maria Glo-ria
@@ -1949,7 +1956,7 @@ Underfull \hbox (badness 1077) in paragraph at lines 420--425
 Kristin West, Jar-rad
  []
 
-) [122]
+) [123]
 Overfull \hbox (16.17401pt too wide) in paragraph at lines 144--144
 []\T1/mdput/m/n/12 In the sec-ond chap-ter, I present the re-sults of a study c
 har-ac-ter-iz-ing the rice root-associated
@@ -1974,10 +1981,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 7148 strings out of 493117
- 107786 string characters out of 6135433
- 175593 words of memory out of 5000000
- 10337 multiletter control sequences out of 15000+600000
+ 7154 strings out of 493117
+ 107919 string characters out of 6135433
+ 175604 words of memory out of 5000000
+ 10342 multiletter control sequences out of 15000+600000
  202234 words of font info for 133 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
  40i,18n,77p,2531b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1991,11 +1998,11 @@ utb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putbi8a.
 pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></u
 sr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/loca
 l/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on joe_edwards_dissertation_main.pdf (135 pages, 30141515 bytes)
+Output written on joe_edwards_dissertation_main.pdf (136 pages, 45377409 bytes)
 .
 PDF statistics:
- 10294 PDF objects out of 10688 (max. 8388607)
- 6514 compressed objects within 66 object streams
+ 10328 PDF objects out of 10688 (max. 8388607)
+ 6534 compressed objects within 66 object streams
  0 named destinations out of 1000 (max. 500000)
- 391 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 396 words of extra memory for PDF output out of 10000 (max. 10000000)
 
