@@ -12,47 +12,48 @@ Warning--I didn't find a database entry for ""
 Warning--empty booktitle in Hardke
 Warning--empty publisher in Hardke
 Warning--empty year in Hardke
+Warning--empty journal in lashof1990relative
 Warning--empty journal in Linquist2012
 Warning--empty publisher in Wickham2009
-You've used 65 entries,
+You've used 66 entries,
             2118 wiz_defined-function locations,
-            961 strings with 20097 characters,
-and the built_in function-call counts, 28115 in all, are:
-= -- 2518
-> -- 2166
+            964 strings with 20218 characters,
+and the built_in function-call counts, 28354 in all, are:
+= -- 2540
+> -- 2179
 < -- 3
-+ -- 859
-- -- 794
-* -- 2573
-:= -- 4952
-add.period$ -- 192
-call.type$ -- 65
-change.case$ -- 586
++ -- 864
+- -- 798
+* -- 2585
+:= -- 4996
+add.period$ -- 195
+call.type$ -- 66
+change.case$ -- 591
 chr.to.int$ -- 0
-cite$ -- 70
-duplicate$ -- 728
-empty$ -- 1613
-format.name$ -- 794
-if$ -- 5395
+cite$ -- 72
+duplicate$ -- 738
+empty$ -- 1630
+format.name$ -- 798
+if$ -- 5442
 int.to.chr$ -- 0
-int.to.str$ -- 65
-missing$ -- 69
-newline$ -- 324
-num.names$ -- 130
-pop$ -- 545
+int.to.str$ -- 66
+missing$ -- 70
+newline$ -- 329
+num.names$ -- 132
+pop$ -- 552
 preamble$ -- 1
-purify$ -- 527
+purify$ -- 531
 quote$ -- 0
-skip$ -- 482
+skip$ -- 490
 stack$ -- 0
-substring$ -- 1344
+substring$ -- 1349
 swap$ -- 80
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 246
-warning$ -- 5
-while$ -- 218
-width$ -- 67
-write$ -- 701
-(There were 6 warnings)
+type$ -- 250
+warning$ -- 6
+while$ -- 220
+width$ -- 68
+write$ -- 710
+(There were 7 warnings)

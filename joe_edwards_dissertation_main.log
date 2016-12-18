@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  16 DEC 2016 18:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  17 DEC 2016 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1605,6 +1605,12 @@ Package pdftex.def Info: PNASEdwards.pdf, page54 used on input line 126.
 
  (./chapter3.tex
 Chapter 3.
+
+Overfull \hbox (7.03261pt too wide) in paragraph at lines 7--8
+\T1/mdput/m/n/12 To bet-ter un-der-stand how root-associated mi-cro-biomes vary
+ across host plant species within
+ []
+
 [65
 
 
@@ -1617,9 +1623,9 @@ Overfull \hbox (0.6705pt too wide) in paragraph at lines 14--15
 LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
 (Font)              scaled to size 13.53603pt on input line 17.
 
-Overfull \hbox (1.5932pt too wide) in paragraph at lines 17--17
-[]\T1/mdput/b/n/14.4 Plant root-associated mi-cro-biomes are in-flu-enced by en
--vi-ron-men-
+Overfull \hbox (10.82478pt too wide) in paragraph at lines 17--17
+[]\T1/mdput/b/n/14.4 Root-associated mi-cro-biomes are in-flu-enced by en-vi-ro
+n-men-tal con-
  []
 
 [67]
@@ -1663,26 +1669,20 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: Figures/figure2_2.pdf Graphic file (type pdf)
 
 <use Figures/figure2_2.pdf>
-Package pdftex.def Info: Figures/figure2_2.pdf used on input line 80.
+Package pdftex.def Info: Figures/figure2_2.pdf used on input line 81.
 (pdftex.def)             Requested size: 433.62pt x 252.9452pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [70] [71 <./Figures/figure2_2.pdf>]
-Overfull \hbox (13.60883pt too wide) in paragraph at lines 88--89
-\T1/mdput/m/n/12 Ver-ru-comi-cro-bia in the rhi-zo-sphere soil and en-riched fo
-r Be-tapro-teobac-te-ria and Gammapro-
+Overfull \hbox (1.0258pt too wide) in paragraph at lines 89--90
+[]\T1/mdput/m/n/12 We no-ticed sig-nif-i-cant dif-fer-ences be-tween the root m
+i-cro-biota of dif-fer-ent plant species
  []
 
 
-Overfull \hbox (12.6274pt too wide) in paragraph at lines 88--89
-\T1/mdput/m/n/12 dobac-te-ria, Acti-nobac-te-ria, and Chlo-roflexi in the rhi-z
-o-sphere soil, and de-pleted for Deltapro-
- []
-
-
-Overfull \hbox (22.1815pt too wide) in paragraph at lines 90--90
+Overfull \hbox (22.1815pt too wide) in paragraph at lines 91--91
 []\T1/mdput/b/n/14.4 Rice ac-quires an out-lier mi-cro-biome com-pared to na-ti
 ve plant species. 
  []
@@ -1691,13 +1691,19 @@ ve plant species.
 File: Figures/figure2_3.pdf Graphic file (type pdf)
 
 <use Figures/figure2_3.pdf>
-Package pdftex.def Info: Figures/figure2_3.pdf used on input line 96.
+Package pdftex.def Info: Figures/figure2_3.pdf used on input line 97.
 (pdftex.def)             Requested size: 361.34999pt x 196.94862pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [72]
+Overfull \hbox (28.46465pt too wide) in paragraph at lines 105--106
+\T1/mdput/m/n/12 ex-u-dates and other or-ganic mat-ter de-rived from de-cay-ing
+ straw or roots [[]]. While methanogens
+ []
+
+[73 <./Figures/figure2_3.pdf>]
 Overfull \hbox (14.09938pt too wide) in paragraph at lines 107--108
 []\T1/mdput/m/n/12 In the set of dif-fer-en-tially abun-dant mi-crobes we found
  8 OTUs be-long-ing to methanogenic
@@ -1710,7 +1716,6 @@ in the rhi-zo-sphere and the \T1/mdput/m/it/12 Methanobac-terium \T1/mdput/m/n/
 12 and \T1/mdput/m/it/12 Methanocella
  []
 
-[73 <./Figures/figure2_3.pdf>]
 <Figures/figure2_4.pdf, id=3567, 740.41762pt x 466.03505pt>
 File: Figures/figure2_4.pdf Graphic file (type pdf)
 
@@ -1735,51 +1740,62 @@ Overfull \hbox (10.75505pt too wide) in paragraph at lines 120--121
 -wise anoxic en-vi-ron-ment and methan-
  []
 
-[75] <Figures/figure2_5.pdf, id=3870, 701.51079pt x 480.31839pt>
+[75]
+Overfull \hbox (6.7507pt too wide) in paragraph at lines 123--124
+\T1/mdput/m/n/12 When com-par-ing the rhi-zo-sphere mi-cro-bial com-mu-nity str
+uc-ture to that of un-planted (bulk)
+ []
+
+<Figures/figure2_5.pdf, id=3870, 701.51079pt x 480.31839pt>
 File: Figures/figure2_5.pdf Graphic file (type pdf)
 
 <use Figures/figure2_5.pdf>
 Package pdftex.def Info: Figures/figure2_5.pdf used on input line 127.
 (pdftex.def)             Requested size: 433.62pt x 296.89284pt.
- [76 <./Figures/figure2_5.pdf>] [77] [78]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[76] [77 <./Figures/figure2_5.pdf>] [78]
 Overfull \hbox (4.99097pt too wide) in paragraph at lines 141--142
 \T1/mdput/m/n/12 methanogenic ar-chaea com-pared to the na-tive plants. Rice pl
 ants host a higher methanogen
  []
 
-
+[79]
 Overfull \hbox (14.2912pt too wide) in paragraph at lines 143--144
 []\T1/mdput/m/n/12 Intensive agri-cul-ture has un-known con-se-quences on the m
 i-cro-biota of agri-cul-tural ecosys-
  []
 
-[79] [80]
+[80]
 Overfull \hbox (17.05806pt too wide) in paragraph at lines 149--150
 \T1/mdput/m/n/12 Assembled 16S rRNA gene se-quences and meta-data were down-loa
 ded from the QI-ITA database
  []
 
-[81] [82] [83] <Figures/figure2_s1.pdf, id=4133, 399.49213pt x 680.01611pt>
+[81] [82] [83] [84]
+<Figures/figure2_s1.pdf, id=4136, 399.49213pt x 680.01611pt>
 File: Figures/figure2_s1.pdf Graphic file (type pdf)
 
 <use Figures/figure2_s1.pdf>
 Package pdftex.def Info: Figures/figure2_s1.pdf used on input line 172.
 (pdftex.def)             Requested size: 289.07999pt x 492.09114pt.
- [84 <./Figures/figure2_s1.pdf>]
-<Figures/figure2_s2.pdf, id=4365, 564.22899pt x 419.24127pt>
+ [85 <./Figures/figure2_s1.pdf>]
+<Figures/figure2_s2.pdf, id=4368, 564.22899pt x 419.24127pt>
 File: Figures/figure2_s2.pdf Graphic file (type pdf)
 
 <use Figures/figure2_s2.pdf>
 Package pdftex.def Info: Figures/figure2_s2.pdf used on input line 182.
 (pdftex.def)             Requested size: 433.62pt x 322.19624pt.
- [85 <./Figures/figure2_s2.pdf>]
-<Figures/figure2_s3.pdf, id=4399, 398.48875pt x 277.035pt>
+ [86 <./Figures/figure2_s2.pdf>]
+<Figures/figure2_s3.pdf, id=4403, 398.48875pt x 277.035pt>
 File: Figures/figure2_s3.pdf Graphic file (type pdf)
 
 <use Figures/figure2_s3.pdf>
 Package pdftex.def Info: Figures/figure2_s3.pdf used on input line 192.
 (pdftex.def)             Requested size: 289.07999pt x 200.97838pt.
-) [86 <./Figures/figure2_s3.pdf>]
+) [87 <./Figures/figure2_s3.pdf>]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1792,11 +1808,11 @@ Overfull \hbox (2.72374pt too wide) in paragraph at lines 6--7
  re-duc-ing sus-cep-ti-bil-ity to pathogens,
  []
 
-[87
+[88
 
 
 
-] [88] <Figures/figure3_1.pdf, id=4446, 453.89203pt x 519.78952pt>
+] [89] <Figures/figure3_1.pdf, id=4449, 453.89203pt x 519.78952pt>
 File: Figures/figure3_1.pdf Graphic file (type pdf)
 
 <use Figures/figure3_1.pdf>
@@ -1806,14 +1822,14 @@ Package pdftex.def Info: Figures/figure3_1.pdf used on input line 22.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[89]
+[90]
 Overfull \hbox (5.56038pt too wide) in paragraph at lines 29--30
 []\T1/mdput/m/n/12 We next mea-sured the ef-fect of plant age on the root-assoc
 iated mi-cro-biota. Per-MANOVA
  []
 
-[90 <./Figures/figure3_1.pdf>]
-<Figures/figure3_2.pdf, id=4745, 462.73537pt x 704.16727pt>
+[91 <./Figures/figure3_1.pdf>]
+<Figures/figure3_2.pdf, id=4748, 462.73537pt x 704.16727pt>
 File: Figures/figure3_2.pdf Graphic file (type pdf)
 
 <use Figures/figure3_2.pdf>
@@ -1823,72 +1839,72 @@ Package pdftex.def Info: Figures/figure3_2.pdf used on input line 36.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[91] [92 <./Figures/figure3_2.pdf>] [93]
-<Figures/figure3_3.pdf, id=5505, 829.38434pt x 679.05759pt>
+[92] [93 <./Figures/figure3_2.pdf>] [94]
+<Figures/figure3_3.pdf, id=5508, 829.38434pt x 679.05759pt>
 File: Figures/figure3_3.pdf Graphic file (type pdf)
 
 <use Figures/figure3_3.pdf>
 Package pdftex.def Info: Figures/figure3_3.pdf used on input line 53.
 (pdftex.def)             Requested size: 433.62pt x 355.02887pt.
- [94 <./Figures/figure3_3.pdf>] [95] [96]
-<Figures/rf_trees.pdf, id=6821, 496.42783pt x 272.68718pt>
+ [95 <./Figures/figure3_3.pdf>] [96] [97]
+<Figures/rf_trees.pdf, id=6824, 496.42783pt x 272.68718pt>
 File: Figures/rf_trees.pdf Graphic file (type pdf)
 
 <use Figures/rf_trees.pdf>
 Package pdftex.def Info: Figures/rf_trees.pdf used on input line 68.
 (pdftex.def)             Requested size: 361.34999pt x 198.4941pt.
 
-<Figures/figure3_5.pdf, id=6822, 700.94986pt x 458.40982pt>
+<Figures/figure3_5.pdf, id=6825, 700.94986pt x 458.40982pt>
 File: Figures/figure3_5.pdf Graphic file (type pdf)
 
 <use Figures/figure3_5.pdf>
 Package pdftex.def Info: Figures/figure3_5.pdf used on input line 80.
 (pdftex.def)             Requested size: 433.62pt x 283.58162pt.
- [97 <./Figures/rf_trees.pdf>] [98 <./Figures/figure3_5.pdf>] [99] <Figures/fig
-ure3_6.pdf, id=7702, 388.48436pt x 855.59854pt>
+ [98 <./Figures/rf_trees.pdf>] [99 <./Figures/figure3_5.pdf>] [100] <Figures/fi
+gure3_6.pdf, id=7705, 388.48436pt x 855.59854pt>
 File: Figures/figure3_6.pdf Graphic file (type pdf)
 
 <use Figures/figure3_6.pdf>
 Package pdftex.def Info: Figures/figure3_6.pdf used on input line 94.
 (pdftex.def)             Requested size: 216.81pt x 477.51305pt.
- [100] [101 <./Figures/figure3_6.pdf>] [102]
-[103] [104] [105]
+ [101] [102 <./Figures/figure3_6.pdf>] [103]
+[104] [105] [106]
 Overfull \hbox (5.73553pt too wide) in paragraph at lines 131--132
 \T1/mdput/m/n/12 The re-sult-ing se-quences were de-mul-ti-plexed us-ing the ba
 r-code se-quences by cus-tom Python
  []
 
-[106] [107] [108] <Figures/figure3_s1.pdf, id=9812, 384.49901pt x 168.69481pt>
+[107] [108] [109] <Figures/figure3_s1.pdf, id=9815, 384.49901pt x 168.69481pt>
 File: Figures/figure3_s1.pdf Graphic file (type pdf)
 
 <use Figures/figure3_s1.pdf>
 Package pdftex.def Info: Figures/figure3_s1.pdf used on input line 149.
 (pdftex.def)             Requested size: 361.34999pt x 158.54996pt.
- [109 <./Figures/figure3_s1.pdf>]
-<Figures/figure3_s2.pdf, id=9863, 625.39905pt x 489.89482pt>
+ [110 <./Figures/figure3_s1.pdf>]
+<Figures/figure3_s2.pdf, id=9867, 625.39905pt x 489.89482pt>
 File: Figures/figure3_s2.pdf Graphic file (type pdf)
 
 <use Figures/figure3_s2.pdf>
 Package pdftex.def Info: Figures/figure3_s2.pdf used on input line 159.
 (pdftex.def)             Requested size: 433.62pt x 339.6798pt.
- [110 <./Figures/figure3_s2.pdf>]
-<Figures/figure3_s3.pdf, id=10133, 409.59276pt x 181.74355pt>
+ [111 <./Figures/figure3_s2.pdf>]
+<Figures/figure3_s3.pdf, id=10136, 409.59276pt x 181.74355pt>
 File: Figures/figure3_s3.pdf Graphic file (type pdf)
 
 <use Figures/figure3_s3.pdf>
 Package pdftex.def Info: Figures/figure3_s3.pdf used on input line 169.
 (pdftex.def)             Requested size: 289.07999pt x 128.27896pt.
-) [111 <./Figures/figure3_s3.pdf>]
+) [112 <./Figures/figure3_s3.pdf>]
 \openout2 = `conclusion.aux'.
 
 
 (./conclusion.tex
 Chapter 5.
-[112
+[113
 
 
 
-] <Figures/figurec_1.pdf, id=10191, 441.65pt x 144.71893pt>
+] <Figures/figurec_1.pdf, id=10194, 441.65pt x 144.71893pt>
 File: Figures/figurec_1.pdf Graphic file (type pdf)
 
 <use Figures/figurec_1.pdf>
@@ -1898,65 +1914,65 @@ Package pdftex.def Info: Figures/figurec_1.pdf used on input line 14.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[113] [114 <./Figures/figurec_1.pdf>]
+[114] [115 <./Figures/figurec_1.pdf>]
 Overfull \hbox (6.91017pt too wide) in paragraph at lines 25--26
 \T1/mdput/m/n/12 have func-tional and en-vi-ron-men-tal im-pacts as the rice pl
 ants host more methanogenic
  []
 
-<Figures/figurec_2.pdf, id=10206, 401.5pt x 195.46562pt>
+<Figures/figurec_2.pdf, id=10209, 401.5pt x 195.46562pt>
 File: Figures/figurec_2.pdf Graphic file (type pdf)
 
 <use Figures/figurec_2.pdf>
 Package pdftex.def Info: Figures/figurec_2.pdf used on input line 30.
 (pdftex.def)             Requested size: 433.62pt x 211.11761pt.
- [115 <./Figures/figurec_2.pdf>]
+ [116 <./Figures/figurec_2.pdf>]
 Overfull \hbox (8.18472pt too wide) in paragraph at lines 40--41
 []\T1/mdput/m/n/12 The mi-cro-biota shifts dur-ing the veg-e-ta-tive phase of t
 he rice plant's life (i.e. the seedling
  []
 
-<Figures/figurec_3.pdf, id=10230, 441.65349pt x 152.09021pt>
+<Figures/figurec_3.pdf, id=10234, 441.65349pt x 152.09021pt>
 File: Figures/figurec_3.pdf Graphic file (type pdf)
 
 <use Figures/figurec_3.pdf>
 Package pdftex.def Info: Figures/figurec_3.pdf used on input line 45.
 (pdftex.def)             Requested size: 361.34999pt x 124.44324pt.
- [116]) [117 <./Figures/figurec_3.pdf>]
+ [117]) [118 <./Figures/figurec_3.pdf>]
 (./joe_edwards_dissertation_main.bbl
 Underfull \hbox (badness 1038) in paragraph at lines 4--8
 []\T1/mdput/m/n/12 Gabriel A. Al-Ghalith, Em-manuel Mon-tassier, Henry N. Ward,
  and Dan Knights.
  []
 
-[118
+[119
 
 
-] [119]
-Underfull \hbox (badness 1168) in paragraph at lines 207--210
+] [120]
+Underfull \hbox (badness 1168) in paragraph at lines 212--215
 []\T1/mdput/m/n/12 Bruce Lin-quist and Robert Hi-j-mans.  AN-NUAL RE-PORT COM-P
 RE-HEN-SIVE RE-
  []
 
-[120]
-Underfull \hbox (badness 2351) in paragraph at lines 261--266
+[121]
+Underfull \hbox (badness 2351) in paragraph at lines 266--271
 []\T1/mdput/m/n/12 Jari Ok-sa-nen, F. Guil-laume Blanchet, Roe-land Kindt, Pier
 re Leg-en-dre, Pe-ter R.
  []
 
-[121] [122]
-Underfull \hbox (badness 1675) in paragraph at lines 411--418
+[122] [123]
+Underfull \hbox (badness 1675) in paragraph at lines 416--423
 []\T1/mdput/m/n/12 Tanya Yat-sunenko, Fed-erico E. Rey, Mark J. Ma-n-ary, Indi 
 Tre-han, Maria Glo-ria
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 420--425
+Underfull \hbox (badness 1077) in paragraph at lines 425--430
 []\T1/mdput/m/n/12 Iratxe Zarraon-ain-dia, Sarah M. Owens, Pamela Weisen-horn, 
 Kristin West, Jar-rad
  []
 
-) [123]
+) [124]
 Overfull \hbox (16.17401pt too wide) in paragraph at lines 144--144
 []\T1/mdput/m/n/12 In the sec-ond chap-ter, I present the re-sults of a study c
 har-ac-ter-iz-ing the rice root-associated
@@ -1981,10 +1997,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 7154 strings out of 493117
- 107914 string characters out of 6135433
- 175604 words of memory out of 5000000
- 10342 multiletter control sequences out of 15000+600000
+ 7155 strings out of 493117
+ 107934 string characters out of 6135433
+ 175608 words of memory out of 5000000
+ 10343 multiletter control sequences out of 15000+600000
  202234 words of font info for 133 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
  40i,18n,77p,2531b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1998,11 +2014,11 @@ utb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putbi8a.
 pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></u
 sr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/loca
 l/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on joe_edwards_dissertation_main.pdf (136 pages, 45376448 bytes)
+Output written on joe_edwards_dissertation_main.pdf (137 pages, 45377417 bytes)
 .
 PDF statistics:
- 10319 PDF objects out of 10688 (max. 8388607)
- 6528 compressed objects within 66 object streams
+ 10322 PDF objects out of 10688 (max. 8388607)
+ 6530 compressed objects within 66 object streams
  0 named destinations out of 1000 (max. 500000)
  396 words of extra memory for PDF output out of 10000 (max. 10000000)
 
