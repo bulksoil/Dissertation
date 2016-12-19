@@ -34,6 +34,13 @@ Fredrik B{\"{a}}ckhed, Josefine Roswall, Yangqing Peng, Qiang Feng, Huijue Jia,
   First Year of Life}.
 \newblock {\em Cell Host {\&} Microbe}, 17(5):690--703, 2015.
 
+\bibitem{bai2015functional}
+Yang Bai, Daniel~B M{\"u}ller, Girish Srinivas, Ruben Garrido-Oter, Eva
+  Potthoff, Matthias Rott, Nina Dombrowski, Philipp~C M{\"u}nch, Stijn Spaepen,
+  Mitja Remus-Emsermann, et~al.
+\newblock Functional overlap of the arabidopsis leaf and root microbiota.
+\newblock {\em Nature}, 2015.
+
 \bibitem{Benjamini1995}
 Yoav Benjamini and Yosef Hochberg.
 \newblock {Controlling the false discovery rate: a practical and powerful
@@ -45,6 +52,13 @@ Yoav Benjamini and Yosef Hochberg.
 Roeland~L. Berendsen, Corn{\'{e}}~M.J. Pieterse, and Peter~A.H.M. Bakker.
 \newblock {The rhizosphere microbiome and plant health}.
 \newblock {\em Trends in Plant Science}, 17(8):478--486, 2012.
+
+\bibitem{bodenhausen2014synthetic}
+Natacha Bodenhausen, Miriam Bortfeld-Miller, Martin Ackermann, and Julia~A
+  Vorholt.
+\newblock A synthetic community approach reveals plant genotypes affecting the
+  phyllosphere microbiota.
+\newblock {\em PLoS Genet}, 10(4):e1004283, 2014.
 
 \bibitem{Breiman2001}
 Leo Breiman.
@@ -142,9 +156,19 @@ Michael Freeling.
 \newblock {Patterns in plant development (2nd edn)}.
 \newblock {\em Trends in Genetics}, 6:97, 1990.
 
+\bibitem{grice2012human}
+Elizabeth~A Grice and Julia~A Segre.
+\newblock The human microbiome: our second genome.
+\newblock {\em Annual review of genomics and human genetics}, 13:151, 2012.
+
 \bibitem{Hardke}
 Jarrod Hardke and Bob Scott.
 \newblock {Water-Seeded Rice}.
+
+\bibitem{hardy2009genomewide}
+John Hardy and Andrew Singleton.
+\newblock Genomewide association studies and human disease.
+\newblock {\em N Engl J Med}, 360:1759--68, 2009.
 
 \bibitem{Hooke1665}
 Robert Hooke.
@@ -170,6 +194,11 @@ Ken Ishimaru, Naoki Hirotsu, Yuka Madoka, Naomi Murakami, Nao Hara, Haruko
   rice grain weight and increases yield}.
 \newblock {\em Nature Genetics}, 45(6):707--711, apr 2013.
 
+\bibitem{khush2005will}
+Gurdev~S Khush.
+\newblock What it will take to feed 5.0 billion rice consumers in 2030.
+\newblock {\em Plant molecular biology}, 59(1):1--6, 2005.
+
 \bibitem{Koenig2011}
 Jeremy~E Koenig, Aym{\'{e}} Spor, Nicholas Scalfone, Ashwana~D Fricker, Jesse
   Stombaugh, Rob Knight, Largus~T Angenent, and Ruth~E Ley.
@@ -193,6 +222,14 @@ Ben Langmead and Steven~L Salzberg.
 Daniel~A Lashof and Dilip~R Ahuja.
 \newblock Relative contributions of greenhouse gas emissions to global warming.
 \newblock 1990.
+
+\bibitem{lebeis2015salicylic}
+Sarah~L Lebeis, Sur~Herrera Paredes, Derek~S Lundberg, Natalie Breakfield, Jase
+  Gehring, Meredith McDonald, Stephanie Malfatti, Tijana~Glavina Del~Rio,
+  Corbin~D Jones, Susannah~G Tringe, et~al.
+\newblock Salicylic acid modulates colonization of the root microbiome by
+  specific bacterial taxa.
+\newblock {\em Science}, 349(6250):860--864, 2015.
 
 \bibitem{Ley2005}
 Ruth~E Ley, F~Backhed, Peter Turnbaugh, Catherine~A Lozupone, Robin~D Knight,
@@ -293,11 +330,6 @@ Emma Ransom-Jones, David~L. Jones, Alan~J. McCarthy, and James~E. McDonald.
 \newblock {The Fibrobacteres: An Important Phylum of Cellulose-Degrading
   Bacteria}, feb 2012.
 
-\bibitem{Schlaeppi2015}
-Klaus Schlaeppi and Davide Bulgarelli.
-\newblock {The Plant Microbiome at Work}.
-\newblock {\em Molecular Plant-Microbe Interactions}, 28(3):212--217, mar 2015.
-
 \bibitem{Schlaeppi2014}
 Klaus Schlaeppi, Nina Dombrowski, Ruben~Garrido Oter, Emiel {Ver Loren van
   Themaat}, and Paul Schulze-Lefert.
@@ -347,6 +379,12 @@ Mitchell~L Sogin, Hilary~G Morrison, Julie~A Huber, David {Mark Welch}, Susan~M
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 103(32):12115--20, aug 2006.
 
+\bibitem{stuber1992identification}
+Charles~W Stuber, Stephen~E Lincoln, DW~Wolff, T~Helentjaris, and ES~Lander.
+\newblock Identification of genetic factors contributing to heterosis in a
+  hybrid from two elite maize inbred lines using molecular markers.
+\newblock {\em Genetics}, 132(3):823--839, 1992.
+
 \bibitem{Tegeder2010}
 Mechthild Tegeder and Doris Rentsch.
 \newblock {Uptake and partitioning of amino acids and peptides.}
@@ -370,13 +408,6 @@ C~P Vance.
 \newblock {Symbiotic nitrogen fixation and phosphorus acquisition. Plant
   nutrition in a world of declining renewable resources.}
 \newblock {\em Plant physiology}, 127(2):390--7, oct 2001.
-
-\bibitem{Wagner2014}
-Maggie~R. Wagner, Derek~S. Lundberg, Devin Coleman-Derr, Susannah~G. Tringe,
-  Jeffery~L. Dangl, and Thomas Mitchell-Olds.
-\newblock {Natural soil microbes alter flowering phenology and the intensity of
-  selection on flowering time in a wild Arabidopsis relative}.
-\newblock {\em Ecology Letters}, 17(6):717--726, jun 2014.
 
 \bibitem{Wagner2016}
 Maggie~R Wagner, Derek~S Lundberg, Tijana~G del Rio, Susannah~G Tringe,
