@@ -9,43 +9,43 @@
 \contentsline {section}{\numberline {1.4}Plant Associated Microbiomes}{6}
 \contentsline {chapter}{\numberline {2}Structure, variation, and assembly of the root-associated microbiomes of rice}{10}
 \contentsline {section}{\numberline {2.1}Abstract}{10}
-\contentsline {chapter}{\numberline {3}The impact of host interspecies diversity on the root associated microbiome and potential implications in agriculture.}{66}
-\contentsline {section}{\numberline {3.1}Abstract}{66}
-\contentsline {section}{\numberline {3.2}Introduction}{67}
-\contentsline {section}{\numberline {3.3}Results}{68}
-\contentsline {subsection}{\numberline {3.3.1}Root-associated microbiomes are influenced by environmental conditions.}{68}
-\contentsline {subsection}{\numberline {3.3.2}Different plant species host distinct microbiotas when growing in the same environment.}{71}
-\contentsline {subsection}{\numberline {3.3.3}Rice acquires an outlier microbiome compared to native plant species.}{73}
-\contentsline {subsection}{\numberline {3.3.4}Rice roots are enriched for methanogenic archaea but not methanotrophic bacteria compared to native plant species.}{74}
-\contentsline {subsection}{\numberline {3.3.5}Soil cultivation history affects plant root microbial assemblages.}{77}
-\contentsline {section}{\numberline {3.4}Discussion}{79}
-\contentsline {section}{\numberline {3.5}Materials and Methods}{82}
-\contentsline {subsection}{\numberline {3.5.1}Meta-Analysis}{82}
-\contentsline {subsection}{\numberline {3.5.2}Native Plant Study}{83}
-\contentsline {subsection}{\numberline {3.5.3}Soil Domestication Study}{83}
-\contentsline {subsection}{\numberline {3.5.4}Seed Sterilization and Germination }{84}
-\contentsline {subsection}{\numberline {3.5.5}16S rRNA gene amplification and sequencing}{84}
-\contentsline {subsection}{\numberline {3.5.6}Sequence processing}{84}
-\contentsline {chapter}{\numberline {4}Successional shifts in the root-associated microbiota throughout the life cycle of the crop plant \textit {Oryza sativa}}{89}
-\contentsline {section}{\numberline {4.1}Abstract}{89}
-\contentsline {section}{\numberline {4.2}Introduction}{90}
-\contentsline {section}{\numberline {4.3}Results}{91}
-\contentsline {subsection}{\numberline {4.3.1}Experimental Design and Sequencing}{91}
-\contentsline {subsection}{\numberline {4.3.2}Microbiomes are shaped by distance from the root and plant age}{91}
-\contentsline {subsection}{\numberline {4.3.3}Microbiota shifts over the season are marked by increasing and decreasing relative abundance of specific phyla}{93}
-\contentsline {subsection}{\numberline {4.3.4}The composition of the root-associated microbiota is an accurate predictor of plant age}{96}
-\contentsline {subsection}{\numberline {4.3.5}Developmental stage is a driver of microbiota succession}{100}
-\contentsline {subsection}{\numberline {4.3.6}Developmental stage is a driver of microbiota succession}{102}
-\contentsline {section}{\numberline {4.4}Discussion}{104}
-\contentsline {section}{\numberline {4.5}Materials and Methods}{107}
-\contentsline {subsection}{\numberline {4.5.1}Plant growth and sampling during the 2014 and 2015 seasons}{107}
-\contentsline {subsection}{\numberline {4.5.2}Plant growth during the 2016 Season}{107}
-\contentsline {subsection}{\numberline {4.5.3}Separation of the root-associated compartments and DNA extraction}{108}
-\contentsline {subsection}{\numberline {4.5.4}PCR amplification and sequencing}{108}
-\contentsline {subsection}{\numberline {4.5.5}Sequence Processing, OTU clustering, and OTU filtering}{109}
-\contentsline {subsection}{\numberline {4.5.6}Statistical Analysis}{109}
-\contentsline {chapter}{\numberline {5}Conclusion}{114}
-\contentsline {section}{\numberline {5.1}Chapter 1}{115}
-\contentsline {section}{\numberline {5.2}Chapter 2}{116}
-\contentsline {section}{\numberline {5.3}Chapter 3}{117}
-\contentsline {section}{\numberline {5.4}Future Directions}{119}
+\contentsline {chapter}{\numberline {3}The impact of host interspecies diversity on the root associated microbiome and potential implications in agriculture.}{22}
+\contentsline {section}{\numberline {3.1}Abstract}{22}
+\contentsline {section}{\numberline {3.2}Introduction}{23}
+\contentsline {section}{\numberline {3.3}Results}{24}
+\contentsline {subsection}{\numberline {3.3.1}Root-associated microbiomes are influenced by environmental conditions.}{24}
+\contentsline {subsection}{\numberline {3.3.2}Different plant species host distinct microbiotas when growing in the same environment.}{27}
+\contentsline {subsection}{\numberline {3.3.3}Rice acquires an outlier microbiome compared to native plant species.}{29}
+\contentsline {subsection}{\numberline {3.3.4}Rice roots are enriched for methanogenic archaea but not methanotrophic bacteria compared to native plant species.}{30}
+\contentsline {subsection}{\numberline {3.3.5}Soil cultivation history affects plant root microbial assemblages.}{33}
+\contentsline {section}{\numberline {3.4}Discussion}{35}
+\contentsline {section}{\numberline {3.5}Materials and Methods}{38}
+\contentsline {subsection}{\numberline {3.5.1}Meta-Analysis}{38}
+\contentsline {subsection}{\numberline {3.5.2}Native Plant Study}{39}
+\contentsline {subsection}{\numberline {3.5.3}Soil Domestication Study}{39}
+\contentsline {subsection}{\numberline {3.5.4}Seed Sterilization and Germination }{40}
+\contentsline {subsection}{\numberline {3.5.5}16S rRNA gene amplification and sequencing}{40}
+\contentsline {subsection}{\numberline {3.5.6}Sequence processing}{40}
+\contentsline {chapter}{\numberline {4}Successional shifts in the root-associated microbiota throughout the life cycle of the crop plant \textit {Oryza sativa}}{45}
+\contentsline {section}{\numberline {4.1}Abstract}{45}
+\contentsline {section}{\numberline {4.2}Introduction}{46}
+\contentsline {section}{\numberline {4.3}Results}{47}
+\contentsline {subsection}{\numberline {4.3.1}Experimental Design and Sequencing}{47}
+\contentsline {subsection}{\numberline {4.3.2}Microbiomes are shaped by distance from the root and plant age}{47}
+\contentsline {subsection}{\numberline {4.3.3}Microbiota shifts over the season are marked by increasing and decreasing relative abundance of specific phyla}{49}
+\contentsline {subsection}{\numberline {4.3.4}The composition of the root-associated microbiota is an accurate predictor of plant age}{52}
+\contentsline {subsection}{\numberline {4.3.5}Developmental stage is a driver of microbiota succession}{56}
+\contentsline {subsection}{\numberline {4.3.6}Developmental stage is a driver of microbiota succession}{58}
+\contentsline {section}{\numberline {4.4}Discussion}{60}
+\contentsline {section}{\numberline {4.5}Materials and Methods}{63}
+\contentsline {subsection}{\numberline {4.5.1}Plant growth and sampling during the 2014 and 2015 seasons}{63}
+\contentsline {subsection}{\numberline {4.5.2}Plant growth during the 2016 Season}{63}
+\contentsline {subsection}{\numberline {4.5.3}Separation of the root-associated compartments and DNA extraction}{64}
+\contentsline {subsection}{\numberline {4.5.4}PCR amplification and sequencing}{64}
+\contentsline {subsection}{\numberline {4.5.5}Sequence Processing, OTU clustering, and OTU filtering}{65}
+\contentsline {subsection}{\numberline {4.5.6}Statistical Analysis}{65}
+\contentsline {chapter}{\numberline {5}Conclusion}{70}
+\contentsline {section}{\numberline {5.1}A deep characterization of the rice root-associated microbiota}{71}
+\contentsline {section}{\numberline {5.2}A cross-species comparison of the root-associated microbiota}{72}
+\contentsline {section}{\numberline {5.3}Dynamics of the rice root-associated microbiota}{74}
+\contentsline {section}{\numberline {5.4}Future Directions}{75}
